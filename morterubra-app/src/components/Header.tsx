@@ -1,15 +1,17 @@
+import logo from "../assets/img/logo_red.png";
+
 export default function Header() {
   return (
     <header
-      className="p-8 flex-none justify-between
-    max-sm:text-center max-sm:flex-none"
+      className="p-8 flex justify-center
+        max-sm:text-center max-sm:flex-none"
     >
       <h1 className="w-40 max-sm:mx-auto">
-        <img className=" w-full" src="./src/assets/img/logo_red.png" alt="" />
+        <img className=" w-full" src={logo} alt="" />
       </h1>
       <a
-        className="border-2 border-l-rose-100 rounded-lg px-4 py-3 inline-block max-sm:my-4
-         hover:border-red-700 hover:text-red-700"
+        className="hidden border-2 border-amber-100 rounded-lg px-4 py-3
+        max-sm:my-4 hover:border-red-600 hover:text-red-600"
         href="https://loja.morterubra.com.br"
       >
         Ir para a loja

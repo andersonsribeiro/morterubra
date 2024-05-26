@@ -1,10 +1,10 @@
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import Home from "./components/Home";
+import Home from "./components/Home/Home";
 
 export default function App() {
   return (
-    <div className=" sm: p-4 text-lg">
+    <div className=" max-sm:p-4 text-lg">
       <Header />
       <Home />
       <Footer />
