@@ -10,7 +10,7 @@ export default function Header() {
         <img className=" w-full" src={logo} alt="" />
       </h1>
       <a
-        className="hidden border-2 border-amber-100 rounded-lg px-4 py-3
+        className="hidden border-2 transition border-amber-100 rounded-lg px-4 py-3
         max-sm:my-4 hover:border-red-600 hover:text-red-600"
         href="https://loja.morterubra.com.br"
       >
