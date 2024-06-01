@@ -20,7 +20,10 @@ export default function Home() {
           <i>A camiseta que você procura pode estar por aqui.</i>
         </span>
       </main>
-      <Shirts />
+      <div className=" text-center my-10 py-4 px-2 bg-amber-100 text-black">
+        camisetas 100% algodão / fio penteado 30.1 / impressão em silk digital
+        com alta definição
+      </div>
     </>
   );
 }

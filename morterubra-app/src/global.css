@@ -21,3 +21,20 @@ h1, h2 {
     @apply font-sans;
     @apply text-6xl text-red-600;
 }
+
+#products li {
+    @apply w-72;
+    @apply mb-5;
+}
+
+#products li figure {
+    @apply mb-2;
+}
+
+#products li figure img {
+    @apply w-full;
+}
+
+#products li p {
+    @apply my-2
+}
