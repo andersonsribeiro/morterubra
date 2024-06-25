@@ -97,14 +97,14 @@ export default function Products() {
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/tristania-widow-s-weed-x050m"
+                href="https://loja.morterubra.com.br/tristania-widow-s-weeds-77pnj"
               >
                 CAMISETA
               </a>
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600 text-right
                           hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/tristania-widow-s-weeds-j73xm"
+                href="https://loja.morterubra.com.br/tristania-widow-s-weeds-baby-look-8ax07"
               >
                 BABY LOOK
               </a>
