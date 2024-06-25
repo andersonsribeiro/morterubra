@@ -21,8 +21,8 @@ export default function Home() {
         </span>
       </main>
       <div className=" text-center my-10 py-4 px-2 bg-amber-100 text-black">
-        camisetas 100% algodão / fio penteado 30.1 / impressão em silk digital
-        com alta definição
+        camisetas 100% algodão / meia malha penteada / fio 30.1 / impressão em
+        silk digital com alta definição
       </div>
     </>
   );
