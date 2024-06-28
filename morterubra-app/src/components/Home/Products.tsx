@@ -7,6 +7,11 @@ import angeles from "../../assets/img/_SITE_CAMISETA-THUMB-ANGELES.png";
 import blaspheme from "../../assets/img/_SITE_CAMISETA-THUMB-BLASPHEME.png";
 import rhapsody from "../../assets/img/_SITE_CAMISETA-THUMB-RHAPSODY.png";
 import darkmoor from "../../assets/img/_SITE_CAMISETA-THUMB-DARKMOOR.png";
+import malice_sans from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-SANS-A.png";
+import malice_memoire from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-MEMOIRE-A.png";
+import malice_voyage from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-VOYAGE-A.png";
+import malice_merveilles from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-MERVEILLES-A.png";
+import malice_bara from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-BARA-A.png";
 
 export default function Products() {
   return (
@@ -17,6 +22,146 @@ export default function Products() {
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4
           "
         >
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={malice_sans}
+                alt="Eco Bag - Malice Mizer: Sans Logique"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Sans Logique</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 55,00</del>
+              <b className="block text-2xl">por R$ 45,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/eco-bag-sans-logique-qnb3w"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={malice_memoire}
+                alt="Camiseta - Malice Mizer: Memoire"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Memoire</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-memoire-0v5m2"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={malice_voyage}
+                alt="Camiseta - Malice Mizer: Voyage Sans Retour"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Voyage Sans Retour</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-voyage-sans-retour-0rh71"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={malice_merveilles}
+                alt="Camiseta - Malice Mizer: Merveilles"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Merveilles</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-merveilles-bxylc"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={malice_bara}
+                alt="Camiseta - Malice Mizer: Bara no Seidou"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Bara no Seidou</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-bara-no-seidou-gshfy"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
           <li className="flex flex-col">
             <figure>
               <img src={tsotb} alt="Camiseta - The Sins of They Beloved" />
