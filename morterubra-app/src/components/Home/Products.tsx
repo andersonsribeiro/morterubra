@@ -12,6 +12,10 @@ import malice_memoire from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-MEMOIRE-
 import malice_voyage from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-VOYAGE-A.png";
 import malice_merveilles from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-MERVEILLES-A.png";
 import malice_bara from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-BARA-A.png";
+import hanoi_stray from "../../assets/img/LOJA_CAMISETA-THUMB-STRAY-A.png";
+import hanoi_confidence from "../../assets/img/LOJA_CAMISETA-THUMB-CONFIDENCE-A.png";
+import hanoi_under from "../../assets/img/LOJA_CAMISETA-THUMB-UNDER-A.png";
+import hanoi_raven from "../../assets/img/LOJA_CAMISETA-THUMB-THE-RAVEN-A.png";
 
 export default function Products() {
   return (
@@ -22,6 +26,115 @@ export default function Products() {
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4
           "
         >
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={hanoi_raven}
+                alt="Hanoi and the Underground Opera: The Raven"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Hanoi and the Underground Opera
+            </h3>
+            <h4 className=" font-sans font-bold">The Raven</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 90,00</del>
+              <b className="block text-2xl">por R$ 80,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/hanoi-and-the-underground-opera-the-raven-7hulo"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={hanoi_under}
+                alt="Hanoi and the Underground Opera: Under the Moon"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Hanoi and the Underground Opera
+            </h3>
+            <h4 className=" font-sans font-bold">Under the Moon</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 90,00</del>
+              <b className="block text-2xl">por R$ 80,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/hanoi-and-the-underground-opera-under-the-moon-6m3xo"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={hanoi_confidence}
+                alt="Hanoi and the Underground Opera: Confidence Game"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Hanoi and the Underground Opera
+            </h3>
+            <h4 className=" font-sans font-bold">Confidence Game</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 90,00</del>
+              <b className="block text-2xl">por R$ 80,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/hanoi-and-the-underground-opera-confidence-game-5pdve"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={hanoi_stray}
+                alt="Hanoi and the Underground Opera: Stray Bullet"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Hanoi and the Underground Opera
+            </h3>
+            <h4 className=" font-sans font-bold">Stray Bullet</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 90,00</del>
+              <b className="block text-2xl">por R$ 80,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/hanoi-and-the-underground-opera-stray-bullet-c24uq"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
           <li className="flex flex-col">
             <figure>
               <img
