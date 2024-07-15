@@ -1,12 +1,12 @@
 import tristania from "../../assets/img/_SITE_CAMISETA-THUMB-TRISTANIA.png";
 import theatre from "../../assets/img/_SITE_CAMISETA-THUMB-THEATRE.png";
 import tsotb from "../../assets/img/_SITE_CAMISETA-THUMB-TSOTB.png";
-import ulver from "../../assets/img/_SITE_CAMISETA-THUMB-ULVER.png";
-import oldmans from "../../assets/img/_SITE_CAMISETA-THUMB-OLDMANS.png";
-import angeles from "../../assets/img/_SITE_CAMISETA-THUMB-ANGELES.png";
-import blaspheme from "../../assets/img/_SITE_CAMISETA-THUMB-BLASPHEME.png";
-import rhapsody from "../../assets/img/_SITE_CAMISETA-THUMB-RHAPSODY.png";
-import darkmoor from "../../assets/img/_SITE_CAMISETA-THUMB-DARKMOOR.png";
+// import ulver from "../../assets/img/_SITE_CAMISETA-THUMB-ULVER.png";
+// import oldmans from "../../assets/img/_SITE_CAMISETA-THUMB-OLDMANS.png";
+// import angeles from "../../assets/img/_SITE_CAMISETA-THUMB-ANGELES.png";
+// import blaspheme from "../../assets/img/_SITE_CAMISETA-THUMB-BLASPHEME.png";
+// import rhapsody from "../../assets/img/_SITE_CAMISETA-THUMB-RHAPSODY.png";
+// import darkmoor from "../../assets/img/_SITE_CAMISETA-THUMB-DARKMOOR.png";
 import malice_sans from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-SANS-A.png";
 import malice_memoire from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-MEMOIRE-A.png";
 import malice_voyage from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-VOYAGE-A.png";
@@ -16,6 +16,10 @@ import hanoi_stray from "../../assets/img/LOJA_CAMISETA-THUMB-STRAY-A.png";
 import hanoi_confidence from "../../assets/img/LOJA_CAMISETA-THUMB-CONFIDENCE-A.png";
 import hanoi_under from "../../assets/img/LOJA_CAMISETA-THUMB-UNDER-A.png";
 import hanoi_raven from "../../assets/img/LOJA_CAMISETA-THUMB-THE-RAVEN-A.png";
+import witchfinder from "../../assets/img/LOJA_CAMISETA-THUMB-WITCHFINDER.jpg";
+import trouble from "../../assets/img/LOJA_CAMISETA-THUMB-TROUBLE-PSALM.jpg";
+import cathedral from "../../assets/img/LOJA_CAMISETA-THUMB-CATHEDRAL.jpg";
+import woods from "../../assets/img/LOJA_CAMISETA-THUMB-WOODS.jpg";
 
 export default function Products() {
   return (
@@ -26,6 +30,132 @@ export default function Products() {
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4
           "
         >
+          <li className="flex flex-col">
+            <figure>
+              <img src={woods} alt="Camiseta - Woods of Ypres" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Woods of Ypres
+            </h3>
+            <h4 className=" font-sans font-bold">
+              Woods 5: Grey Skies & Electric Light
+            </h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/woods-of-ypres-woods-5-grey-skies-e-electric-light-j9dam"
+              >
+                CAMISETA
+              </a>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600 text-right
+                          hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/woods-of-ypres-woods-5-grey-skies-e-electric-light-suxhn"
+              >
+                BABY LOOK
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={cathedral} alt="Camiseta - Cathedral" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Cathedral
+            </h3>
+            <h4 className=" font-sans font-bold">Forest of Equilibrium</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/cathedral-forest-of-equelibrium-f5z3u"
+              >
+                CAMISETA
+              </a>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600 text-right
+                          hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/cathedral-forest-of-equilibrium-cjuhl"
+              >
+                BABY LOOK
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={trouble} alt="Camiseta - Trouble" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Trouble
+            </h3>
+            <h4 className=" font-sans font-bold">Psalm 9</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/trouble-psalm-9-jyynk"
+              >
+                CAMISETA
+              </a>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600 text-right
+                          hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/trouble-psalm-9-rx98c"
+              >
+                BABY LOOK
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={witchfinder} alt="Camiseta - Witchfinder General" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Witchfinder General
+            </h3>
+            <h4 className=" font-sans font-bold">Death Penalty</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small className=" block">em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/witchfinder-general-death-penalty-j38iy"
+              >
+                CAMISETA
+              </a>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600 text-right
+                          hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/witchfinder-general-death-penalty-mlvl4"
+              >
+                BABY LOOK
+              </a>
+            </p>
+          </li>
           <li className="flex flex-col">
             <figure>
               <img
@@ -306,7 +436,7 @@ export default function Products() {
               </a>
             </p>
           </li>
-          <li className="flex flex-col">
+          {/* <li className="flex flex-col">
             <figure>
               <img src={theatre} alt="Camiseta - Theatre of Tragedy" />
             </figure>
@@ -336,7 +466,7 @@ export default function Products() {
                 BABY LOOK
               </a>
             </p>
-          </li>
+          </li> */}
           <li className="flex flex-col">
             <figure>
               <img src={tristania} alt="Camiseta - Tristania" />
@@ -368,7 +498,7 @@ export default function Products() {
               </a>
             </p>
           </li>
-          <li className="flex flex-col">
+          {/* <li className="flex flex-col">
             <figure>
               <img src={blaspheme} alt="Camiseta - Blaspheme" />
             </figure>
@@ -555,7 +685,7 @@ export default function Products() {
                 BABY LOOK
               </a>
             </p>
-          </li>
+          </li> */}
         </ul>
       </section>
     </>
