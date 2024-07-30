@@ -18,12 +18,11 @@ export default function Products() {
   return (
     <>
       <section id="products">
-        {/*
         <ul
           id="section-1"
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4"
         >
-           <li className="flex flex-col">
+          <li className="flex flex-col">
             <figure>
               <img
                 src={gammaray}
@@ -57,8 +56,7 @@ export default function Products() {
             <h3 className=" font-sans font-bold text-3xl text-red-600">
               Stratovarius
             </h3>
-            <h4 className=" font-sans font-bold">Episode</h4>][]
-
+            <h4 className=" font-sans font-bold">Episode</h4>
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 95,00</b>
@@ -178,7 +176,7 @@ export default function Products() {
               </a>
             </p>
           </li>
-        </ul> */}
+        </ul>
 
         <div className=" my-10">
           <a href="https://loja.morterubra.com.br/?cat=visual-kei">
