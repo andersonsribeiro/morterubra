@@ -57,7 +57,7 @@ export default function Products() {
             <h3 className=" font-sans font-bold text-3xl text-red-600">
               Stratovarius
             </h3>
-            <h4 className=" font-sans font-bold">Episode</h4>
+            <h4 className=" font-sans font-bold">Episode</h4>][]
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>

@@ -4,7 +4,7 @@ import Shirts from "./Shirts";
 export default function Home() {
   return (
     <>
-      <main className=" text-center mt-16 font-serif pt-20">
+      <main className=" text-center mt-16 font-serif pt-20 max-sm:pt-32">
         <span
           className=" text-6xl bg-red-800 px-4 text-black
          max-sm:text-4xl"
