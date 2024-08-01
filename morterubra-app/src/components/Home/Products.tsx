@@ -176,18 +176,6 @@ export default function Products() {
               </a>
             </p>
           </li>
-        </ul>
-
-        <div className=" my-10">
-          <a href="https://loja.morterubra.com.br/?cat=visual-kei">
-            <img className=" w-full" src={malicebanner} alt="" />
-          </a>
-        </div>
-
-        <ul
-          id="section-2"
-          className="max-w-5xl mx-auto gap-4 flex justify-center flex-wrap"
-        >
           <li className="flex flex-col">
             <figure>
               <img src={woods} alt="Camiseta - Woods of Ypres" />
