@@ -2,14 +2,33 @@ import hanoi_stray from "../../assets/img/LOJA_CAMISETA-THUMB-STRAY-A.png";
 import hanoi_confidence from "../../assets/img/LOJA_CAMISETA-THUMB-CONFIDENCE-A.png";
 import hanoi_under from "../../assets/img/LOJA_CAMISETA-THUMB-UNDER-A.png";
 import hanoi_raven from "../../assets/img/LOJA_CAMISETA-THUMB-THE-RAVEN-A.png";
-import gammaray from "../../assets/img/LOJA_CAMISETA-THUMB-GAMME-RAY.jpg";
-import domine from "../../assets/img/LOJA_CAMISETA-THUMB-DOMINE.jpg";
-import losthorizon from "../../assets/img/LOJA_CAMISETA-THUMB-LOST-HORIZON.jpg";
-import stratovarius from "../../assets/img/LOJA_CAMISETA-THUMB-STRATOVARIUS.jpg";
+
 import inflames from "../../assets/img/LOJA_CAMISETA-THUMB-INFLAMES-A.jpg";
 import gatesofishtar from "../../assets/img/LOJA_CAMISETA-THUMB-GATES-A.jpg";
 import unanimated from "../../assets/img/LOJA_CAMISETA-THUMB-UNANIMATED-A.jpg";
 import darktranquillity from "../../assets/img/LOJA_CAMISETA-THUMB-DARK-TRANQUILLITY-A.jpg";
+
+import lunasea_bag from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-BAG.jpg";
+import lunasea_overblack from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-OVERBLACK-A.jpg";
+import lunasea_overwhite from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-OVERWHITE-A.jpg";
+import lunasea_black from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-BLACK-A.jpg";
+import lunasea_white from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-WHITE-A.jpg";
+
+import deg_bag from "../../assets/img/LOJA_THUMB-DEG-BAG.jpg";
+import deg_overblack from "../../assets/img/LOJA_THUMB-DEG-OVERBLACK-A.jpg";
+import deg_overwhite from "../../assets/img/LOJA_THUMB-DEG-OVERWHITE-A.jpg";
+import deg_black from "../../assets/img/LOJA_THUMB-DEG-BLACK-A.jpg";
+import deg_white from "../../assets/img/LOJA_THUMB-DEG-WHITE-A.jpg";
+
+import bucktick_bag from "../../assets/img/LOJA_THUMB-B_T-BAG.jpg";
+import bucktick_overblack from "../../assets/img/LOJA_THUMB-B_T-OVERBLACK-A.jpg";
+import bucktick_overwhite from "../../assets/img/LOJA_THUMB-B_T-OVERWHITE-A.jpg";
+import bucktick_black from "../../assets/img/LOJA_THUMB-B_T-BLACK-A.jpg";
+import bucktick_white from "../../assets/img/LOJA_THUMB-B_T-WHITE-A.jpg";
+
+import x_bag from "../../assets/img/LOJA_THUMB-X-BAG.jpg";
+import x_black from "../../assets/img/LOJA_THUMB-X-BLACK-A.jpg";
+import x_overblack from "../../assets/img/LOJA_THUMB-X-OVERBLACK-A.jpg";
 
 export default function Products() {
   return (
@@ -21,320 +40,330 @@ export default function Products() {
         >
           <li className="flex flex-col">
             <figure>
-              <img
-                src={darktranquillity}
-                alt="Camiseta: Dark Tranquillity - The Gallery"
-              />
+              <img src={lunasea_bag} alt="Ecobag: Luna Sea - Rosier" />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Dark Tranquillity
+              Luna Sea
             </h3>
-            <h4 className=" font-sans font-bold">The Gallery</h4>
+            <h4 className=" font-sans font-bold">Rosier (Ecobag)</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 55,00</del>
+              <b className="block text-2xl">por R$ 50,00</b>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/luna-sea-rosier-ecobag-mx28w"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={bucktick_bag} alt="Ecobag: Buck Tick - Aku no Hana" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Buck Tick
+            </h3>
+            <h4 className=" font-sans font-bold">Aku no Hana (Ecobag)</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 55,00</del>
+              <b className="block text-2xl">por R$ 50,00</b>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-ecobag-uwbar"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={deg_bag} alt="Ecobag: Dir en grey - GAUZE" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Dir en Grey
+            </h3>
+            <h4 className=" font-sans font-bold">GAUZE (Ecobag)</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 55,00</del>
+              <b className="block text-2xl">por R$ 50,00</b>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/dir-en-grey-gauze-ecobag-p3ht7"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={x_bag} alt="Ecobag: X - Vanishing Vision" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">X</h3>
+            <h4 className=" font-sans font-bold">Vanishing Vision (Ecobag)</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 55,00</del>
+              <b className="block text-2xl">por R$ 50,00</b>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/x-vanishing-vision-ecobag-z
+0lc9"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img src={lunasea_black} alt="Camiseta: Luna Sea - Rosier" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Luna Sea
+            </h3>
+            <h4 className=" font-sans font-bold">Mother</h4>
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 95,00</b>
-              <small className=" block">em até 3x sem juros</small>
+              <small>em até 3x sem juros</small>
             </p>
             <p>
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/dark-tranquillity-the-gallery-6gugb"
+                href="https://loja.morterubra.com.br/luna-sea-mother-preta-ovm89"
               >
-                IR PARA A LOJA
+                CAMISETA PRETA
+              </a>
+              <a
+                className="block my-4 text-right border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/luna-sea-mother-branca-2lpri"
+              >
+                CAMISETA BRANCA
               </a>
             </p>
           </li>
           <li className="flex flex-col">
             <figure>
               <img
-                src={unanimated}
-                alt="Camiseta: Unanimated - Ancient God of Evil"
+                src={bucktick_black}
+                alt="Camiseta: Buck Tick - Aku no Hana"
               />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Unanimated
+              Buck Tick
             </h3>
-            <h4 className=" font-sans font-bold">Ancient God of Evil</h4>
-            <p>
-              <del className="block text-xl">de R$ 100,00</del>
-              <b className="block text-2xl">por R$ 95,00</b>
-              <small className=" block">em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/unanimated-ancient-god-of-evil-iykav"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={gatesofishtar}
-                alt="Camiseta: Gates of Ishtar - A Bloodred Path"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Gates of Ishtar
-            </h3>
-            <h4 className=" font-sans font-bold">A Bloodred Path</h4>
+            <h4 className=" font-sans font-bold">Aku no Hana</h4>
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 95,00</b>
-              <small className=" block">em até 3x sem juros</small>
+              <small>em até 3x sem juros</small>
             </p>
             <p>
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/gates-of-ishtar-a-bloodred-path-ei0w7"
+                href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-preta-khgma"
               >
-                IR PARA A LOJA
+                CAMISETA PRETA
+              </a>
+              <a
+                className="block my-4 text-right border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-branca-fzmez"
+              >
+                CAMISETA BRANCA
               </a>
             </p>
           </li>
           <li className="flex flex-col">
             <figure>
-              <img src={inflames} alt="Camiseta: In Flames - The Jester Race" />
+              <img src={deg_black} alt="Camiseta: Dir en grey - GAUZE" />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              In Flames
+              Dir en Grey
             </h3>
-            <h4 className=" font-sans font-bold">The Jester Race</h4>
+            <h4 className=" font-sans font-bold">GAUZE</h4>
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 95,00</b>
-              <small className=" block">em até 3x sem juros</small>
+              <small>em até 3x sem juros</small>
             </p>
             <p>
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/in-flames-the-jester-race-hssn2"
+                href="https://loja.morterubra.com.br/dir-en-grey-gauze-preta-sungy"
               >
-                IR PARA A LOJA
+                CAMISETA PRETA
               </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={gammaray}
-                alt="Camiseta: Gamma Ray - Land of the Free"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Gamma Ray
-            </h3>
-            <h4 className=" font-sans font-bold">Land of the Free</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 100,00</del>
-              <b className="block text-2xl">por R$ 95,00</b>
-              <small className=" block">em até 3x sem juros</small>
-            </p>
-            <p>
               <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+                className="block my-4 text-right border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/gamma-ray-land-of-the-free-8iiam"
+                href="https://loja.morterubra.com.br/dir-en-grey-gauze-branca-7g3ls"
               >
-                IR PARA A LOJA
+                CAMISETA BRANCA
               </a>
             </p>
           </li>
           <li className="flex flex-col">
             <figure>
-              <img src={stratovarius} alt="Camiseta: Stratovarius - Episode" />
+              <img src={x_black} alt="Camiseta: X - Vanishing Vision" />
             </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Stratovarius
-            </h3>
-            <h4 className=" font-sans font-bold">Episode</h4>
-            <p>
-              <del className="block text-xl">de R$ 100,00</del>
-              <b className="block text-2xl">por R$ 95,00</b>
-              <small className=" block">em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/stratovarius-episode-zh1sn"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={domine}
-                alt="Camiseta: Domine - Dragonlord (Tales of the Noble Steel)"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Domine
-            </h3>
-            <h4 className=" font-sans font-bold">
-              Dragonlord (Tales of the Noble Steel)
-            </h4>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">X</h3>
+            <h4 className=" font-sans font-bold">Vanishing Vision</h4>
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 95,00</b>
-              <small className=" block">em até 3x sem juros</small>
+              <small>em até 3x sem juros</small>
             </p>
             <p>
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/domine-dragonlord-tales-of-the-noble-steel-a2qag"
+                href="https://loja.morterubra.com.br/x-vanishing-vision-t3250?o=eC12YW5pc2hpbmctdmlzaW9uLXQzMjUwX29jdF8yNjAzODY="
               >
-                IR PARA A LOJA
+                CAMISETA PRETA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img src={lunasea_overblack} alt="Camiseta: Luna Sea - Rosier" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Luna Sea
+            </h3>
+            <h4 className=" font-sans font-bold">Mother</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 165,00</del>
+              <b className="block text-2xl">por R$ 150,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/luna-sea-mother-preta-ovm89"
+              >
+                OVERSIZED PRETA
+              </a>
+              <a
+                className="block my-4 text-right border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/luna-sea-mother-branca-2lpri"
+              >
+                OVERSIZED BRANCA
               </a>
             </p>
           </li>
           <li className="flex flex-col">
             <figure>
               <img
-                src={losthorizon}
-                alt="Camiseta: Lost Horizon - Awakening the World"
+                src={bucktick_overblack}
+                alt="Camiseta: Buck Tick - Aku no Hana"
               />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Lost Horizon
+              Buck Tick
             </h3>
-            <h4 className=" font-sans font-bold">Awakening the World</h4>
+            <h4 className=" font-sans font-bold">Aku no Hana</h4>
 
             <p>
-              <del className="block text-xl">de R$ 100,00</del>
-              <b className="block text-2xl">por R$ 95,00</b>
-              <small className=" block">em até 3x sem juros</small>
+              <del className="block text-xl">de R$ 165,00</del>
+              <b className="block text-2xl">por R$ 150,00</b>
+              <small>em até 3x sem juros</small>
             </p>
             <p>
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/lost-horizon-awakening-the-world-9u12q"
+                href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-preta-khgma"
               >
-                IR PARA A LOJA
+                OVERSIZED PRETA
+              </a>
+              <a
+                className="block my-4 text-right border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-branca-fzmez"
+              >
+                OVERSIZED BRANCA
               </a>
             </p>
           </li>
           <li className="flex flex-col">
             <figure>
-              <img
-                src={hanoi_raven}
-                alt="Hanoi and the Underground Opera: The Raven"
-              />
+              <img src={deg_overblack} alt="Camiseta: Dir en grey - GAUZE" />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Hanoi and the Underground Opera
+              Dir en Grey
             </h3>
-            <h4 className=" font-sans font-bold">The Raven</h4>
+            <h4 className=" font-sans font-bold">GAUZE</h4>
 
             <p>
-              <del className="block text-xl">de R$ 90,00</del>
-              <b className="block text-2xl">por R$ 80,00</b>
-              <small className=" block">em até 3x sem juros</small>
+              <del className="block text-xl">de R$ 165,00</del>
+              <b className="block text-2xl">por R$ 150,00</b>
+              <small>em até 3x sem juros</small>
             </p>
             <p>
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/hanoi-and-the-underground-opera-the-raven-7hulo"
+                href="https://loja.morterubra.com.br/dir-en-grey-gauze-preta-sungy"
               >
-                IR PARA A LOJA
+                OVERSIZED PRETA
+              </a>
+              <a
+                className="block my-4 text-right border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/dir-en-grey-gauze-branca-7g3ls"
+              >
+                OVERSIZED BRANCA
               </a>
             </p>
           </li>
           <li className="flex flex-col">
             <figure>
-              <img
-                src={hanoi_under}
-                alt="Hanoi and the Underground Opera: Under the Moon"
-              />
+              <img src={x_overblack} alt="Camiseta: X - Vanishing Vision" />
             </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Hanoi and the Underground Opera
-            </h3>
-            <h4 className=" font-sans font-bold">Under the Moon</h4>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">X</h3>
+            <h4 className=" font-sans font-bold">Vanishing Vision</h4>
 
             <p>
-              <del className="block text-xl">de R$ 90,00</del>
-              <b className="block text-2xl">por R$ 80,00</b>
-              <small className=" block">em até 3x sem juros</small>
+              <del className="block text-xl">de R$ 165,00</del>
+              <b className="block text-2xl">por R$ 150,00</b>
+              <small>em até 3x sem juros</small>
             </p>
             <p>
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/hanoi-and-the-underground-opera-under-the-moon-6m3xo"
+                href="https://loja.morterubra.com.br/x-vanishing-vision-t3250?o=eC12YW5pc2hpbmctdmlzaW9uLXQzMjUwX29jdF8yNjAzODY="
               >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={hanoi_confidence}
-                alt="Hanoi and the Underground Opera: Confidence Game"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Hanoi and the Underground Opera
-            </h3>
-            <h4 className=" font-sans font-bold">Confidence Game</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 90,00</del>
-              <b className="block text-2xl">por R$ 80,00</b>
-              <small className=" block">em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/hanoi-and-the-underground-opera-confidence-game-5pdve"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={hanoi_stray}
-                alt="Hanoi and the Underground Opera: Stray Bullet"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Hanoi and the Underground Opera
-            </h3>
-            <h4 className=" font-sans font-bold">Stray Bullet</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 90,00</del>
-              <b className="block text-2xl">por R$ 80,00</b>
-              <small className=" block">em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/hanoi-and-the-underground-opera-stray-bullet-c24uq"
-              >
-                IR PARA A LOJA
+                OVERSIZED PRETA
               </a>
             </p>
           </li>
