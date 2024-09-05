@@ -276,7 +276,7 @@ export default function Products() {
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
                 href="https://loja.morterubra.com.br/luna-sea-mother-branca-2lpri"
               >
-                OVERSIZED BRANCA
+                OVERSIZED OFF-WHITE
               </a>
             </p>
           </li>
@@ -310,7 +310,7 @@ export default function Products() {
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
                 href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-branca-fzmez"
               >
-                OVERSIZED BRANCA
+                OVERSIZED OFF-WHITE
               </a>
             </p>
           </li>
@@ -341,7 +341,7 @@ export default function Products() {
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
                 href="https://loja.morterubra.com.br/dir-en-grey-gauze-branca-7g3ls"
               >
-                OVERSIZED BRANCA
+                OVERSIZED OFF-WHITE
               </a>
             </p>
           </li>
