@@ -267,14 +267,14 @@ export default function Products() {
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/luna-sea-mother-preta-ovm89"
+                href="https://loja.morterubra.com.br/luna-sea-mother-oversized-preta-1quy3"
               >
                 OVERSIZED PRETA
               </a>
               <a
                 className="block my-4 text-right border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/luna-sea-mother-branca-2lpri"
+                href="https://loja.morterubra.com.br/luna-sea-mother-oversized-off-white-q8off"
               >
                 OVERSIZED OFF-WHITE
               </a>
@@ -301,14 +301,14 @@ export default function Products() {
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-preta-khgma"
+                href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-oversized-preta-13hfq"
               >
                 OVERSIZED PRETA
               </a>
               <a
                 className="block my-4 text-right border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-branca-fzmez"
+                href="https://loja.morterubra.com.br/buck-tick-aku-no-hana-oversized-off-white-01s6w"
               >
                 OVERSIZED OFF-WHITE
               </a>
@@ -332,14 +332,14 @@ export default function Products() {
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/dir-en-grey-gauze-preta-sungy"
+                href="https://loja.morterubra.com.br/dir-en-grey-gauze-oversized-preta-1xt1n"
               >
                 OVERSIZED PRETA
               </a>
               <a
                 className="block my-4 text-right border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/dir-en-grey-gauze-branca-7g3ls"
+                href="https://loja.morterubra.com.br/dir-en-grey-gauze-oversized-off-white-baat9"
               >
                 OVERSIZED OFF-WHITE
               </a>
@@ -361,7 +361,7 @@ export default function Products() {
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/x-vanishing-vision-t3250?o=eC12YW5pc2hpbmctdmlzaW9uLXQzMjUwX29jdF8yNjAzODY="
+                href="https://loja.morterubra.com.br/x-vanishing-vision-oversized-021l0"
               >
                 OVERSIZED PRETA
               </a>
