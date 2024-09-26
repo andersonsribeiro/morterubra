@@ -30,6 +30,12 @@ import x_bag from "../../assets/img/LOJA_THUMB-X-BAG.jpg";
 import x_black from "../../assets/img/LOJA_THUMB-X-BLACK-A.jpg";
 import x_overblack from "../../assets/img/LOJA_THUMB-X-OVERBLACK-A.jpg";
 
+import hammerheart from "../../assets/img/LOJA_CAMISETA-THUMB-HAMMERHEART-A.jpg";
+import twilight from "../../assets/img/LOJA_CAMISETA-THUMB-TWILIGHT-A.jpg";
+import blood from "../../assets/img/LOJA_CAMISETA-THUMB-BLOODONICE-A.jpg";
+import nordland from "../../assets/img/LOJA_CAMISETA-THUMB-NORDLAND-A.jpg";
+import nordland2 from "../../assets/img/LOJA_CAMISETA-THUMB-NORDLAND-II-A.jpg";
+
 export default function Products() {
   return (
     <>
@@ -38,6 +44,122 @@ export default function Products() {
           id="section-1"
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4"
         >
+          <li className="flex flex-col">
+            <figure>
+              <img src={hammerheart} alt="Bathory - Hammerheart" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Bathory
+            </h3>
+            <h4 className=" font-sans font-bold">Hammerheart</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/bathory-hammerheart-vzs0r"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={twilight} alt="Bathory - Twilght of the Gods" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Bathory
+            </h3>
+            <h4 className=" font-sans font-bold">Twilight of the Gods</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/bathory-twilight-of-the-gods-qilq7"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={blood} alt="Bathory - Blood on Ice" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Bathory
+            </h3>
+            <h4 className=" font-sans font-bold">Blood on Ice</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/bathory-blood-on-ice-vvd1g"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={nordland} alt="Bathory - Nordland" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Bathory
+            </h3>
+            <h4 className=" font-sans font-bold">Nordland</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/bathory-nordland-r9pir"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={nordland2} alt="Bathory - Nordland II" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Bathory
+            </h3>
+            <h4 className=" font-sans font-bold">Nordland II</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/bathory-nordland-ii-k3psu"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
           <li className="flex flex-col">
             <figure>
               <img src={lunasea_bag} alt="Ecobag: Luna Sea - Rosier" />
