@@ -56,6 +56,10 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+              <small className="bg-red-600 text-amber-100 px-4 py-1 rounded-full inline-block mt-4">
+                DESCONTO ATÉ 05/10
+              </small>
             </p>
             <p>
               <a
@@ -79,6 +83,10 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+              <small className="bg-red-600 text-amber-100 px-4 py-1 rounded-full inline-block mt-4">
+                DESCONTO ATÉ 05/10
+              </small>
             </p>
             <p>
               <a
@@ -102,6 +110,10 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+              <small className="bg-red-600 text-amber-100 px-4 py-1 rounded-full inline-block mt-4">
+                DESCONTO ATÉ 05/10
+              </small>
             </p>
             <p>
               <a
@@ -125,6 +137,10 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+              <small className="bg-red-600 text-amber-100 px-4 py-1 rounded-full inline-block mt-4">
+                DESCONTO ATÉ 05/10
+              </small>
             </p>
             <p>
               <a
@@ -148,6 +164,10 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 100,00</del>
               <b className="block text-2xl">por R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+              <small className="bg-red-600 text-amber-100 px-4 py-1 rounded-full inline-block mt-4">
+                DESCONTO ATÉ 05/10
+              </small>
             </p>
             <p>
               <a
