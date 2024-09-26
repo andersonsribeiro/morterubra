@@ -55,7 +55,7 @@ export default function Products() {
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>
-              <b className="block text-2xl">por R$ 95,00</b>
+              <b className="block text-2xl">por R$ 89,90</b>
             </p>
             <p>
               <a
@@ -78,7 +78,7 @@ export default function Products() {
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>
-              <b className="block text-2xl">por R$ 95,00</b>
+              <b className="block text-2xl">por R$ 89,90</b>
             </p>
             <p>
               <a
@@ -101,7 +101,7 @@ export default function Products() {
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>
-              <b className="block text-2xl">por R$ 95,00</b>
+              <b className="block text-2xl">por R$ 89,90</b>
             </p>
             <p>
               <a
@@ -124,7 +124,7 @@ export default function Products() {
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>
-              <b className="block text-2xl">por R$ 95,00</b>
+              <b className="block text-2xl">por R$ 89,90</b>
             </p>
             <p>
               <a
@@ -147,7 +147,7 @@ export default function Products() {
 
             <p>
               <del className="block text-xl">de R$ 100,00</del>
-              <b className="block text-2xl">por R$ 95,00</b>
+              <b className="block text-2xl">por R$ 89,90</b>
             </p>
             <p>
               <a
