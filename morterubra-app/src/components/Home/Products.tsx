@@ -1,30 +1,14 @@
-import hanoi_stray from "../../assets/img/LOJA_CAMISETA-THUMB-STRAY-A.png";
-import hanoi_confidence from "../../assets/img/LOJA_CAMISETA-THUMB-CONFIDENCE-A.png";
-import hanoi_under from "../../assets/img/LOJA_CAMISETA-THUMB-UNDER-A.png";
-import hanoi_raven from "../../assets/img/LOJA_CAMISETA-THUMB-THE-RAVEN-A.png";
-
-import inflames from "../../assets/img/LOJA_CAMISETA-THUMB-INFLAMES-A.jpg";
-import gatesofishtar from "../../assets/img/LOJA_CAMISETA-THUMB-GATES-A.jpg";
-import unanimated from "../../assets/img/LOJA_CAMISETA-THUMB-UNANIMATED-A.jpg";
-import darktranquillity from "../../assets/img/LOJA_CAMISETA-THUMB-DARK-TRANQUILLITY-A.jpg";
-
 import lunasea_bag from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-BAG.jpg";
 import lunasea_overblack from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-OVERBLACK-A.jpg";
-import lunasea_overwhite from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-OVERWHITE-A.jpg";
 import lunasea_black from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-BLACK-A.jpg";
-import lunasea_white from "../../assets/img/LOJA_CAMISETA-THUMB-LUNA-SEA-WHITE-A.jpg";
 
 import deg_bag from "../../assets/img/LOJA_THUMB-DEG-BAG.jpg";
 import deg_overblack from "../../assets/img/LOJA_THUMB-DEG-OVERBLACK-A.jpg";
-import deg_overwhite from "../../assets/img/LOJA_THUMB-DEG-OVERWHITE-A.jpg";
 import deg_black from "../../assets/img/LOJA_THUMB-DEG-BLACK-A.jpg";
-import deg_white from "../../assets/img/LOJA_THUMB-DEG-WHITE-A.jpg";
 
 import bucktick_bag from "../../assets/img/LOJA_THUMB-B_T-BAG.jpg";
 import bucktick_overblack from "../../assets/img/LOJA_THUMB-B_T-OVERBLACK-A.jpg";
-import bucktick_overwhite from "../../assets/img/LOJA_THUMB-B_T-OVERWHITE-A.jpg";
 import bucktick_black from "../../assets/img/LOJA_THUMB-B_T-BLACK-A.jpg";
-import bucktick_white from "../../assets/img/LOJA_THUMB-B_T-WHITE-A.jpg";
 
 import x_bag from "../../assets/img/LOJA_THUMB-X-BAG.jpg";
 import x_black from "../../assets/img/LOJA_THUMB-X-BLACK-A.jpg";
@@ -36,6 +20,12 @@ import blood from "../../assets/img/LOJA_CAMISETA-THUMB-BLOODONICE-A.jpg";
 import nordland from "../../assets/img/LOJA_CAMISETA-THUMB-NORDLAND-A.jpg";
 import nordland2 from "../../assets/img/LOJA_CAMISETA-THUMB-NORDLAND-II-A.jpg";
 
+import malice_sans from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-SANS-A.png";
+import malice_bara from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-BARA-A.png";
+import malice_voyage from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-VOYAGE-A.png";
+import malice_memoire from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-MEMOIRE-A.png";
+import malice_merveilles from "../../assets/img/LOJA_CAMISETA-THUMB-MALICE-MERVEILLES-A.png";
+
 export default function Products() {
   return (
     <>
@@ -44,6 +34,130 @@ export default function Products() {
           id="section-1"
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4"
         >
+          <li className="flex flex-col">
+            <figure>
+              <img src={malice_sans} alt="Malice Mizer - Sans Logique" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Sans Logique</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 55,00</del>
+              <b className="block text-2xl">por R$ 50,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/eco-bag-sans-logique-qnb3w"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={malice_memoire} alt="Malice Mizer - Memoire" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Memoire</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-memoire-0v5m2"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={malice_voyage}
+                alt="Malice Mizer - Voyage Sans Retour"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Voyage Sans Retour</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-voyage-sans-retour-0rh71"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={malice_merveilles} alt="Malice Mizer - Hammerheart" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Merveilles</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-merveilles-bxylc"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={malice_bara} alt="Malice Mizer - Bara no Seidou" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Bara no Seidou</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-bara-no-seidou-gshfy"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
           <li className="flex flex-col">
             <figure>
               <img src={hammerheart} alt="Bathory - Hammerheart" />
