@@ -1,3 +1,6 @@
+import mug_dead from "../../assets/img/LOJA_MUG-THUMB-DEAD.png";
+import mug_king from "../../assets/img/LOJA_MUG-THUMB-KING.png";
+
 import satyricon from "../../assets/img/LOJA_CAMISETA-THUMB-SATYRICON_A.jpg";
 import dimmuborgir from "../../assets/img/LOJA_CAMISETA-THUMB-DIMMU_A.jpg";
 import emperor from "../../assets/img/LOJA_CAMISETA-THUMB-EMPEROR_A.png";
@@ -23,6 +26,53 @@ export default function Products() {
           id="section-1"
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4"
         >
+          <li className="flex flex-col">
+            <figure>
+              <img src={mug_dead} alt="Caneca: Dead - Mayhem" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">Dead</h3>
+            <h4 className=" font-sans font-bold">Caneca</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 55,00</del>
+              <b className="block text-2xl">por R$ 50,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/caneca-dead-ztoqe"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={mug_king} alt="Caneca: Dead - Mayhem" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              King Diamond
+            </h3>
+            <h4 className=" font-sans font-bold">Caneca</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 55,00</del>
+              <b className="block text-2xl">por R$ 50,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/caneca-king-diamond-k8uxc"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
           <li className="flex flex-col">
             <figure>
               <img src={satyricon} alt="Satyricon - Dark Medieval Times" />
