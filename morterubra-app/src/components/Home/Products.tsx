@@ -92,7 +92,7 @@ export default function Products() {
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
                 href="https://loja.morterubra.com.br/d-erlanger-la-vie-en-rose-oversized-jzdzg"
               >
-                BRANCA
+                OFF-WHITE
               </a>
             </p>
           </li>
