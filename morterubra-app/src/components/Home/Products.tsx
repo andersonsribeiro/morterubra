@@ -10,10 +10,10 @@ import deadman from "../../assets/img/LOJA_CAMISETA-THUMB-DEADMAN-BLACK-A.png";
 import kagrra from "../../assets/img/LOJA_CAMISETA-THUMB-KAGRRA-BLACK-A.png";
 import moidixmois from "../../assets/img/LOJA_CAMISETA-THUMB-MOIDIXMOIS-BLACK-A.png";
 
-import derlanger_over from "../../assets/img/LOJA_CAMISETA-THUMB-DERLANGER-OVERBLACK-A.png";
-import deadman_over from "../../assets/img/LOJA_CAMISETA-THUMB-DEADMAN-OVERBLACK-A.png";
-import kagrra_over from "../../assets/img/LOJA_CAMISETA-THUMB-KAGRRA-OVERBLACK-A.png";
-import moidixmois_over from "../../assets/img/LOJA_CAMISETA-THUMB-MOIDIXMOIS-OVERBLACK-A.png";
+import vintersorg from "../../assets/img/LOJA_CAMISETA-THUMB-VINTERSORG-A.png";
+import mithotyn from "../../assets/img/LOJA_CAMISETA-THUMB-MITHOTYN-A.png";
+import windir from "../../assets/img/LOJA_CAMISETA-THUMB-WINDIR-A.png";
+import ensiferum from "../../assets/img/LOJA_CAMISETA-THUMB-ENSIFERUM-A.png";
 
 import saintvitus from "../../assets/img/LOJA_CAMISETA-THUMB-SAINTVITUS-A.png";
 import anathema from "../../assets/img/LOJA_CAMISETA-THUMB-ANATHEMA-A.png";
@@ -28,6 +28,105 @@ export default function Products() {
           id="section-1"
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4"
         >
+          <li className="flex flex-col">
+            <figure>
+              <img src={vintersorg} alt="Camiseta: Vintersorg - Till Fjälls" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Vintersorg
+            </h3>
+            <h4 className=" font-sans font-bold">Till Fjälls</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/vintersorg-till-fjalls-8gq8i"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={mithotyn}
+                alt="Camiseta: Mithotyn - King of the Distant Forest"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Mithotyn
+            </h3>
+            <h4 className=" font-sans font-bold">King of the Distant Forest</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/mithotyn-king-of-the-distant-forest-09ril"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={windir} alt="Camiseta: Windir - 1184" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Windir
+            </h3>
+            <h4 className=" font-sans font-bold">1184</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/windir-1184-r0gun"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={ensiferum} alt="Camiseta: Ensiferum - Iron" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Ensiferum
+            </h3>
+            <h4 className=" font-sans font-bold">Iron</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 100,00</del>
+              <b className="block text-2xl">por R$ 95,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/ensiferum-iron-maoun"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
           <li className="flex flex-col">
             <figure>
               <img
@@ -167,40 +266,7 @@ export default function Products() {
               </a>
             </p>
           </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={derlanger_over}
-                alt="Camiseta: D'erlanger - La Vie En Rose"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              D'erlanger
-            </h3>
-            <h4 className=" font-sans font-bold">La Vie En Rose</h4>
 
-            <p>
-              <del className="block text-xl">de R$ 160,00</del>
-              <b className="block text-2xl">por R$ 50,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/d-erlanger-la-vie-en-rose-oversized-jzdzg"
-              >
-                PRETA
-              </a>
-              <a
-                className="text-right block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/d-erlanger-la-vie-en-rose-oversized-jzdzg"
-              >
-                OFF-WH
-              </a>
-            </p>
-          </li>
           <li className="flex flex-col">
             <figure>
               <img
@@ -237,42 +303,7 @@ export default function Products() {
               </a>
             </p>
           </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={deadman_over}
-                alt="Camiseta: Deadman - In the Direction of Sunrise and Night Light"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Deadman
-            </h3>
-            <h4 className=" font-sans font-bold">
-              In the Direction of Sunrise and Night Light
-            </h4>
 
-            <p>
-              <del className="block text-xl">de R$ 160,00</del>
-              <b className="block text-2xl">por R$ 150,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/deadman-in-the-direction-of-sunrise-and-night-light-oversized-7ohwz"
-              >
-                PRETA
-              </a>
-              <a
-                className="text-right block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/deadman-in-the-direction-of-sunrise-and-night-light-oversized-np4i5"
-              >
-                OFF-WHITE
-              </a>
-            </p>
-          </li>
           <li className="flex flex-col">
             <figure>
               <img src={kagrra} alt="Camiseta: Kagrra, - San" />
@@ -306,37 +337,6 @@ export default function Products() {
           </li>
           <li className="flex flex-col">
             <figure>
-              <img src={kagrra_over} alt="Camiseta: Kagrra, - San" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Kagrra,
-            </h3>
-            <h4 className=" font-sans font-bold">San</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 160,00</del>
-              <b className="block text-2xl">por R$ 150,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/kagrra-san-oversized-b81qm"
-              >
-                PRETA
-              </a>
-              <a
-                className="text-right block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/kagrra-san-oversized-bqg3c"
-              >
-                BRANCA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
               <img
                 src={moidixmois}
                 alt="Camiseta: Moi Dix Mois - Dix Infernal"
@@ -362,34 +362,6 @@ export default function Products() {
               </a>
             </p>
           </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={moidixmois_over}
-                alt="Camiseta: Moi Dix Mois - Dix Infernal"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Moi Dix Mois
-            </h3>
-            <h4 className=" font-sans font-bold">Dix Infernal</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 160,00</del>
-              <b className="block text-2xl">por R$ 150,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/moi-dix-mois-dix-infernal-mrhzv"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
           <li className="flex flex-col">
             <figure className="bg-yellow-400">
               <a
