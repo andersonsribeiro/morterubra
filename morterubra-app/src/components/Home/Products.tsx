@@ -28,7 +28,7 @@ export default function Products() {
           id="section-1"
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4"
         >
-          <li className="flex flex-col">
+          {/* <li className="flex flex-col">
             <figure>
               <img src={bathory} alt="Camiseta: Bathory - Bathory" />
             </figure>
@@ -131,7 +131,7 @@ export default function Products() {
                 IR PARA A LOJA
               </a>
             </p>
-          </li>
+          </li> */}
 
           <li className="flex flex-col">
             <figure>
