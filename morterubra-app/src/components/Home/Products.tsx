@@ -10,15 +10,15 @@ import mithotyn from "../../assets/img/LOJA_CAMISETA-THUMB-MITHOTYN-A.png";
 import windir from "../../assets/img/LOJA_CAMISETA-THUMB-WINDIR-A.png";
 import ensiferum from "../../assets/img/LOJA_CAMISETA-THUMB-ENSIFERUM-A.png";
 
-import saintvitus from "../../assets/img/LOJA_CAMISETA-THUMB-SAINTVITUS-A.png";
-import anathema from "../../assets/img/LOJA_CAMISETA-THUMB-ANATHEMA-A.png";
-import paradise from "../../assets/img/LOJA_CAMISETA-THUMB-ICON-A.png";
-import reverend from "../../assets/img/LOJA_CAMISETA-THUMB-REVEREND-A.png";
-
 import bathory from "../../assets/img/LOJA_CAMISETA-THUMB-BATHORY-A.jpg";
 import thereturn from "../../assets/img/LOJA_CAMISETA-THUMB-THERETURN-A.jpg";
 import underthesign from "../../assets/img/LOJA_CAMISETA-THUMB-UNDERTHESIGN-A.jpg";
 import bloodfiredeath from "../../assets/img/LOJA_CAMISETA-THUMB-BLOODFIREDEATH-A.jpg";
+
+import typeo from "../../assets/img/LOJA_CAMISETA-THUMB-TYPEONEGATIVE-A.png";
+import moonspell from "../../assets/img/LOJA_CAMISETA-THUMB-MOONSPELL-A.png";
+import gathering from "../../assets/img/LOJA_CAMISETA-THUMB-THEGATHERING-A.png";
+import sentenced from "../../assets/img/LOJA_CAMISETA-THUMB-SENTENCED-A.png";
 
 export default function Products() {
   return (
@@ -28,6 +28,108 @@ export default function Products() {
           id="section-1"
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4"
         >
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={typeo}
+                alt="Camiseta: Type O Negative - Bloody Kisses"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Type O Negative
+            </h3>
+            <h4 className=" font-sans font-bold">Bloody Kisses</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 104,90</del>
+              <b className="block text-2xl">por R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/type-o-negative-bloody-kisses-rjpgl"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={moonspell} alt="Camiseta: Moonspell - Wolfheart" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Moonspell
+            </h3>
+            <h4 className=" font-sans font-bold">Wolfheart</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 104,90</del>
+              <b className="block text-2xl">por R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/moonspell-wolfheart-3d3qm"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={gathering} alt="Camiseta: The Gathering - Mandylion" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              The Gathering
+            </h3>
+            <h4 className=" font-sans font-bold">Mandylion</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 104,90</del>
+              <b className="block text-2xl">por R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/the-gathering-mandylion-v8m67"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={sentenced}
+                alt="Camiseta: Sentenced - The Cold White Light"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Sentenced
+            </h3>
+            <h4 className=" font-sans font-bold">The Cold White Light</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 104,90</del>
+              <b className="block text-2xl">por R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/sentenced-the-cold-white-light-qs051"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
           <li className="flex flex-col">
             <figure>
               <img src={bathory} alt="Camiseta: Bathory - Bathory" />
@@ -227,110 +329,6 @@ export default function Products() {
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
                 href="https://loja.morterubra.com.br/ensiferum-iron-maoun"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={saintvitus}
-                alt="Camiseta: Saint Vitus - Mournful Cries"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Saint Vitus
-            </h3>
-            <h4 className=" font-sans font-bold">Mournful Cries</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/saint-vitus-mournful-cries-ht6jf"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img src={anathema} alt="Camiseta: Anathema - Serenades" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Anathema
-            </h3>
-            <h4 className=" font-sans font-bold">Serenades</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/anathema-serenades-eq0d2"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img src={paradise} alt="Camiseta: Paradise Lost - Icon" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Paradise Lost
-            </h3>
-            <h4 className=" font-sans font-bold">Icon</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/paradise-lost-icon-ckbmv"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={reverend}
-                alt="Camiseta: Reverend Bizarre - In the Rectory of the Bizarre Reverend"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Reverend Bizarre
-            </h3>
-            <h4 className=" font-sans font-bold">
-              In the Rectory of the Bizarre Reverend
-            </h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/reverend-bizzarre-in-the-rectory-of-the-bizzarre-reverend-8554w"
               >
                 IR PARA A LOJA
               </a>
