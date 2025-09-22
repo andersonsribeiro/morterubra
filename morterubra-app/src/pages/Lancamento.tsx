@@ -5,10 +5,10 @@ import home_death from "../assets/img/HOME_DEATH.png";
 import home_mugs from "../assets/img/HOME_MUGS.png";
 import home_doom from "../assets/img/HOME_DOOM.png";
 
-import bathory from "../assets/img/LOJA_CAMISETA-THUMB-BATHORY-A.jpg";
-import thereturn from "../assets/img/LOJA_CAMISETA-THUMB-THERETURN-A.jpg";
-import underthesign from "../assets/img/LOJA_CAMISETA-THUMB-UNDERTHESIGN-A.jpg";
-import bloodfiredeath from "../assets/img/LOJA_CAMISETA-THUMB-BLOODFIREDEATH-A.jpg";
+import typeo from "../assets/img/LOJA_CAMISETA-THUMB-TYPEONEGATIVE-A.png";
+import moonspell from "../assets/img/LOJA_CAMISETA-THUMB-MOONSPELL-A.png";
+import gathering from "../assets/img/LOJA_CAMISETA-THUMB-THEGATHERING-A.png";
+import sentenced from "../assets/img/LOJA_CAMISETA-THUMB-SENTENCED-A.png";
 
 export default function Lancamento() {
   return (
@@ -20,12 +20,15 @@ export default function Lancamento() {
         >
           <li className="flex flex-col">
             <figure>
-              <img src={bathory} alt="Camiseta: Bathory - Bathory" />
+              <img
+                src={typeo}
+                alt="Camiseta: Type O Negative - Bloody Kisses"
+              />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Bathory
+              Type O Negative
             </h3>
-            <h4 className=" font-sans font-bold">Bathory</h4>
+            <h4 className=" font-sans font-bold">Bloody Kisses</h4>
 
             <p>
               <del className="block text-xl">de R$ 104,90</del>
@@ -36,7 +39,7 @@ export default function Lancamento() {
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/bathory-bathory-hk7i7"
+                href="https://loja.morterubra.com.br/type-o-negative-bloody-kisses-rjpgl"
               >
                 IR PARA A LOJA
               </a>
@@ -44,12 +47,12 @@ export default function Lancamento() {
           </li>
           <li className="flex flex-col">
             <figure>
-              <img src={thereturn} alt="Camiseta: Bathory - The Return......" />
+              <img src={moonspell} alt="Camiseta: Moonspell - Wolfheart" />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Bathory
+              Moonspell
             </h3>
-            <h4 className=" font-sans font-bold">The Return......</h4>
+            <h4 className=" font-sans font-bold">Wolfheart</h4>
 
             <p>
               <del className="block text-xl">de R$ 104,90</del>
@@ -60,7 +63,31 @@ export default function Lancamento() {
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/bathory-the-return-jemyd"
+                href="https://loja.morterubra.com.br/moonspell-wolfheart-3d3qm"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img src={gathering} alt="Camiseta: The Gathering - Mandylion" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              The Gathering
+            </h3>
+            <h4 className=" font-sans font-bold">Mandylion</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 104,90</del>
+              <b className="block text-2xl">por R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/the-gathering-mandylion-v8m67"
               >
                 IR PARA A LOJA
               </a>
@@ -69,16 +96,14 @@ export default function Lancamento() {
           <li className="flex flex-col">
             <figure>
               <img
-                src={underthesign}
-                alt="Camiseta: Bathory - Under the Sign of the Black Mark"
+                src={sentenced}
+                alt="Camiseta: Sentenced - The Cold White Light"
               />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Bathory
+              Sentenced
             </h3>
-            <h4 className=" font-sans font-bold">
-              Under the Sign of the Black Mark
-            </h4>
+            <h4 className=" font-sans font-bold">The Cold White Light</h4>
 
             <p>
               <del className="block text-xl">de R$ 104,90</del>
@@ -89,34 +114,7 @@ export default function Lancamento() {
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/bathory-under-the-sign-of-the-black-mark-eais8"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={bloodfiredeath}
-                alt="Camiseta: Bathory - Blood Fire Death"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Bathory
-            </h3>
-            <h4 className=" font-sans font-bold">Blood Fire Death</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/bathory-blood-fire-death-qwkyg"
+                href="https://loja.morterubra.com.br/sentenced-the-cold-white-light-qs051"
               >
                 IR PARA A LOJA
               </a>
