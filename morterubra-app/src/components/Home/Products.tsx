@@ -6,25 +6,23 @@ import home_mugs from "../../assets/img/HOME_MUGS.png";
 import home_doom from "../../assets/img/HOME_DOOM.png";
 
 import gulu_bag from "../../assets/img/LOJA_BAG-THUMB-GULUGULU.png";
-import gulu_over from "../../assets/img/LOJA_OVERSIZED-THUMB-GULUGULU-A.png";
 import gulu from "../../assets/img/LOJA_CAMISETA-THUMB-GULUGULU-A.png";
 
 import plastic_bag from "../../assets/img/LOJA_BAG-THUMB-PLASTICTREE.png";
-import plastic_over from "../../assets/img/LOJA_OVERSIZED-THUMB-PLASTICTREE-A.png";
 import plastic from "../../assets/img/LOJA_CAMISETA-THUMB-PLASTICTREE-A.png";
 
-import d_bag from "../../assets/img/LOJA_BAG-THUMB-D.png";
-import d_over from "../../assets/img/LOJA_OVERSIZED-THUMB-D-A.png";
-import d from "../../assets/img/LOJA_CAMISETA-THUMB-D-A.png";
-
 import larc_bag from "../../assets/img/LOJA_BAG-THUMB-LARC.png";
-import larc_over from "../../assets/img/LOJA_OVERSIZED-THUMB-LARC-A.png";
 import larc from "../../assets/img/LOJA_CAMISETA-THUMB-LARC-A.png";
 
 import typeo from "../../assets/img/LOJA_CAMISETA-THUMB-TYPEONEGATIVE-A.png";
 import moonspell from "../../assets/img/LOJA_CAMISETA-THUMB-MOONSPELL-A.png";
 import gathering from "../../assets/img/LOJA_CAMISETA-THUMB-THEGATHERING-A.png";
 import sentenced from "../../assets/img/LOJA_CAMISETA-THUMB-SENTENCED-A.png";
+
+import dismember from "../../assets/img/LOJA_CAMISETA-THUMB-DISMEMBER-A.png";
+import insolitude from "../../assets/img/LOJA_CAMISETA-THUMB-INSOLITUDE-A.png";
+import katatonia from "../../assets/img/LOJA_CAMISETA-THUMB-KATATONIA-A.png";
+import gackt from "../../assets/img/LOJA_CAMISETA-THUMB-GACKT-A.png";
 
 export default function Products() {
   return (
@@ -34,6 +32,117 @@ export default function Products() {
           id="section-1"
           className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4"
         >
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={dismember}
+                alt="Camiseta: Dismember - Massive Killing Capacity"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Dismember
+            </h3>
+            <h4 className=" font-sans font-bold">Massive Killing Capacity</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 104,90</del>
+              <b className="block text-2xl">por R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/dismember-massive-killing-capacity-2s3vr"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={katatonia}
+                alt="Camiseta: Katatonia - Dance of December Souls"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Katatonia
+            </h3>
+            <h4 className=" font-sans font-bold">Dance of December Souls</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 104,90</del>
+              <b className="block text-2xl">por R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/katatonia-dance-of-december-souls-9j2z5"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={insolitude}
+                alt="Camiseta: In Solitude - The World The Flesh The Devil"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              In Solitude
+            </h3>
+            <h4 className=" font-sans font-bold">
+              The World The Flesh The Devil
+            </h4>
+
+            <p>
+              <del className="block text-xl">de R$ 104,90</del>
+              <b className="block text-2xl">por R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/in-solitude-the-world-the-flesh-the-devil-4xdqm"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img src={gackt} alt="Camiseta: Gackt - Mars" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Gackt
+            </h3>
+            <h4 className=" font-sans font-bold">Mars</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 104,90</del>
+              <b className="block text-2xl">por R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/gackt-mars-htoif"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
           <li className="flex flex-col">
             <figure>
               <img
@@ -63,6 +172,7 @@ export default function Products() {
               </a>
             </p>
           </li>
+
           <li className="flex flex-col">
             <figure>
               <img
@@ -74,7 +184,7 @@ export default function Products() {
               gulu gulu
             </h3>
             <h4 className=" font-sans font-bold">
-              gulu gulu - Gulu Gulu Ryuushutsu Ongen Shuu
+              Gulu Gulu Ryuushutsu Ongen Shuu
             </h4>
 
             <p>
@@ -87,35 +197,6 @@ export default function Products() {
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
                 href="https://loja.morterubra.com.br/gulu-gulu-gulu-gulu-ryuushutsu-ongen-shuu-camiseta-ck6ew"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={gulu_over}
-                alt="Oversized: gulu gulu - Gulu Gulu Ryuushutsu Ongen Shuu"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              gulu gulu
-            </h3>
-            <h4 className=" font-sans font-bold">
-              Gulu Gulu Ryuushutsu Ongen Shuu
-            </h4>
-
-            <p>
-              <del className="block text-xl">de R$ 160,00</del>
-              <b className="block text-2xl">por R$ 150,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/gulu-gulu-gulu-gulu-ryuushutsu-ongen-shuu-oversized-jmoj9"
               >
                 IR PARA A LOJA
               </a>
@@ -170,97 +251,6 @@ export default function Products() {
               </a>
             </p>
           </li>
-          <li className="flex flex-col">
-            <figure>
-              <img src={plastic_over} alt="Oversized: Plastic Tree - Ink" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Plastic Tree
-            </h3>
-            <h4 className=" font-sans font-bold">Ink</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 160,00</del>
-              <b className="block text-2xl">por R$ 150,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/plastic-tree-ink-oversized-yo6he"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure>
-              <img src={d_bag} alt="EcoBag: D - Genetic World" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">D</h3>
-            <h4 className=" font-sans font-bold">Genetic World</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 60,00</del>
-              <b className="block text-2xl">por R$ 55,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/d-genetic-world-ecobag-qn5q4"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img src={d} alt="Camiseta: D - Genetic World" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">D</h3>
-            <h4 className=" font-sans font-bold">Genetic World</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/d-genetic-world-camiseta-bthpx"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img src={d_over} alt="Oversized: D - Genetic World" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">D</h3>
-            <h4 className=" font-sans font-bold">Genetic World</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 160,00</del>
-              <b className="block text-2xl">por R$ 150,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/d-genetic-world-oversized-aeama"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
 
           <li className="flex flex-col">
             <figure>
@@ -310,30 +300,6 @@ export default function Products() {
               </a>
             </p>
           </li>
-          <li className="flex flex-col">
-            <figure>
-              <img src={larc_over} alt="Oversized: L'arc en Ciel - True" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              L'arc en Ciel
-            </h3>
-            <h4 className=" font-sans font-bold">True</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 160,00</del>
-              <b className="block text-2xl">por R$ 150,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/l-arc-en-ciel-qjjcx"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
 
           <li className="flex flex-col">
             <figure>
@@ -362,6 +328,7 @@ export default function Products() {
               </a>
             </p>
           </li>
+
           <li className="flex flex-col">
             <figure>
               <img src={moonspell} alt="Camiseta: Moonspell - Wolfheart" />
@@ -386,6 +353,7 @@ export default function Products() {
               </a>
             </p>
           </li>
+
           <li className="flex flex-col">
             <figure>
               <img src={gathering} alt="Camiseta: The Gathering - Mandylion" />
@@ -410,6 +378,7 @@ export default function Products() {
               </a>
             </p>
           </li>
+
           <li className="flex flex-col">
             <figure>
               <img
@@ -465,6 +434,7 @@ export default function Products() {
               </a>
             </p>
           </li>
+
           <li className="flex flex-col">
             <figure className="bg-yellow-400">
               <a
