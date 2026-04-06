@@ -29,6 +29,119 @@ export default function Products() {
           <li className="flex flex-col">
             <figure>
               <img
+                src={sanslogique}
+                alt="Camiseta: Malice Mizer - Sans Logique"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Sans Logique</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 89,90</del>
+              <b className="block text-2xl">por R$ 84,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-sans-logique-ta9qd"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={sanslogique_over}
+                alt="Camiseta: Malice Mizer - Sans Logique (OVERSIZED)"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Sans Logique (OVERSIZED)</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 145,00</del>
+              <b className="block text-2xl">por R$ 135,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-sans-logique-oversized-h04bc"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={darker}
+                alt="Camiseta: BUCK-TICK - darker than darkness -style 93-"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              BUCK-TICK
+            </h3>
+            <h4 className=" font-sans font-bold">
+              darker than darkness -style 93-
+            </h4>
+
+            <p>
+              <del className="block text-xl">de R$ 89,90</del>
+              <b className="block text-2xl">por R$ 84,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/buck-tick-darker-than-darkness-style-93-jgfvk"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li className="flex flex-col">
+            <figure>
+              <img
+                src={darker_over}
+                alt="Camiseta: BUCK-TICK - darker than darkness -style 93- (OVERSIZED)"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              BUCK-TICK
+            </h3>
+            <h4 className=" font-sans font-bold">
+              darker than darkness -style 93- (OVERSIZED)
+            </h4>
+
+            <p>
+              <del className="block text-xl">de R$ 145,00</del>
+              <b className="block text-2xl">por R$ 135,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-sans-logique-oversized-vwkji"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li className="flex flex-col">
+            <figure>
+              <img
                 src={dismember}
                 alt="Camiseta: Dismember - Massive Killing Capacity"
               />
