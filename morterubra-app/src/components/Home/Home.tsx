@@ -1,4 +1,5 @@
 import Subscribe from "../Mailchimp/Subscribe";
+import Products from "./Products";
 
 export default function Home() {
   return (
@@ -19,10 +20,13 @@ export default function Home() {
           <i>A camiseta que você procura pode estar por aqui.</i>
         </span>
       </main>
+
       <div className=" text-center my-10 py-4 px-2 bg-amber-100 text-black">
         camisetas 100% algodão / meia malha penteada / fio 30.1 / impressão em
         silk digital com alta definição
       </div>
+
+      <Products />
     </>
   );
 }

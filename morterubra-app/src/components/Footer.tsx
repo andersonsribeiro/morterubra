@@ -11,6 +11,7 @@ export default function Footer() {
           sac@morterubra.com.br
         </a>
       </p>
+      <p className=" my-3">WhatsApp: (11) 91274-6145</p>
       <p className=" my-3">
         <a
           className=" underline hover:text-white"

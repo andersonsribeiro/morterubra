@@ -1,37 +1,72 @@
-import home_black from "../../assets/img/HOME_BLACK.png";
-import home_vkei from "../../assets/img/HOME_VKEI.png";
-import home_bathory from "../../assets/img/HOME_BATHORY.png";
-import home_death from "../../assets/img/HOME_DEATH.png";
-import home_mugs from "../../assets/img/HOME_MUGS.png";
-import home_doom from "../../assets/img/HOME_DOOM.png";
-
-import darker from "../../assets/img/LOJA_CAMISETA-THUMB-DARKER-A.png";
-import darker_over from "../../assets/img/LOJA_CAMISETA-THUMB-DARKER-OVERSIZED-A.png";
+import bucktick from "../../assets/img/LOJA_CAMISETA-THUMB-DARKER-A.png";
+import bucktick_oversized from "../../assets/img/LOJA_CAMISETA-THUMB-DARKER-OVERSIZED-A.png";
+import sanslogique_oversized from "../../assets/img/LOJA_CAMISETA-THUMB-SANSLOGIQUE-OVERSIZED-A.png";
 import sanslogique from "../../assets/img/LOJA_CAMISETA-THUMB-SANSLOGIQUE-A.png";
-import sanslogique_over from "../../assets/img/LOJA_CAMISETA-THUMB-SANSLOGIQUE-OVERSIZED-A.png";
-
-import gulu from "../../assets/img/LOJA_CAMISETA-THUMB-GULUGULU-A.png";
-import plastic from "../../assets/img/LOJA_CAMISETA-THUMB-PLASTICTREE-A.png";
-
-import dismember from "../../assets/img/LOJA_CAMISETA-THUMB-DISMEMBER-A.png";
-import insolitude from "../../assets/img/LOJA_CAMISETA-THUMB-INSOLITUDE-A.png";
-import katatonia from "../../assets/img/LOJA_CAMISETA-THUMB-KATATONIA-A.png";
-import gackt from "../../assets/img/LOJA_CAMISETA-THUMB-GACKT-A.png";
+import manilla from "../../assets/img/LOJA_CAMISETA-THUMB-MANILLA-A.png";
+import mercyful from "../../assets/img/LOJA_CAMISETA-THUMB-MERCYFUL-A.png";
 
 export default function Products() {
   return (
     <>
-      <section id="products">
-        <ul
-          id="section-1"
-          className=" max-w-5xl mx-auto flex flex-wrap justify-center gap-4"
-        >
-          <li className="flex flex-col">
+      <section className="max-w-5xl mx-auto">
+        <ul id="products">
+          <li>
             <figure>
-              <img
-                src={sanslogique}
-                alt="Camiseta: Malice Mizer - Sans Logique"
-              />
+              <img src={manilla} alt="Manilla Road - Mystification" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Manilla Road
+            </h3>
+            <h4 className=" font-sans font-bold">Mystification</h4>
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+            <p>
+              <del className="block text-xl">de R$ 94,90</del>
+              <b className="block text-2xl">por R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/manilla-road-mystification-imrtt"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img src={mercyful} alt="Mercyful Fate - Time" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Mercyful Fate
+            </h3>
+            <h4 className=" font-sans font-bold">Time</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 94,90</del>
+              <b className="block text-2xl">por R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/mercyful-fate-time-bvyom"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img src={sanslogique} alt="Malice Mizer - Sans Logique" />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
               Malice Mizer
@@ -39,8 +74,8 @@ export default function Products() {
             <h4 className=" font-sans font-bold">Sans Logique</h4>
 
             <p>
-              <del className="block text-xl">de R$ 89,90</del>
-              <b className="block text-2xl">por R$ 84,90</b>
+              por apenas
+              <b className="block text-2xl">por R$ 94,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -53,50 +88,24 @@ export default function Products() {
               </a>
             </p>
           </li>
-          <li className="flex flex-col">
+          <li>
             <figure>
               <img
-                src={sanslogique_over}
-                alt="Camiseta: Malice Mizer - Sans Logique (OVERSIZED)"
+                src={bucktick}
+                alt="Buck-Tick - darker than darkness -style 93-"
               />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Malice Mizer
-            </h3>
-            <h4 className=" font-sans font-bold">Sans Logique (OVERSIZED)</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 145,00</del>
-              <b className="block text-2xl">por R$ 135,00</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/malice-mizer-sans-logique-oversized-h04bc"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={darker}
-                alt="Camiseta: BUCK-TICK - darker than darkness -style 93-"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              BUCK-TICK
+              Buck-Tick
             </h3>
             <h4 className=" font-sans font-bold">
-              darker than darkness -style 93-
+              darker than darkness{" "}
+              <span className="text-nowrap">-style 93-</span>
             </h4>
 
             <p>
-              <del className="block text-xl">de R$ 89,90</del>
-              <b className="block text-2xl">por R$ 84,90</b>
+              por apenas
+              <b className="block text-2xl">por R$ 94,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -109,23 +118,51 @@ export default function Products() {
               </a>
             </p>
           </li>
-          <li className="flex flex-col">
+          <li>
             <figure>
               <img
-                src={darker_over}
-                alt="Camiseta: BUCK-TICK - darker than darkness -style 93- (OVERSIZED)"
+                src={sanslogique_oversized}
+                alt="Malice Mizer - Sans Logique"
               />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              BUCK-TICK
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Sans Logique</h4>
+
+            <p>
+              por apenas
+              <b className="block text-2xl">por R$ 140,00</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-sans-logique-oversized-h04bc"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src={bucktick_oversized}
+                alt="Buck-Tick - darker than darkness -style 93-"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Buck-Tick
             </h3>
             <h4 className=" font-sans font-bold">
-              darker than darkness -style 93- (OVERSIZED)
+              darker than darkness{" "}
+              <span className="text-nowrap">-style 93-</span>
             </h4>
 
             <p>
-              <del className="block text-xl">de R$ 145,00</del>
-              <b className="block text-2xl">por R$ 135,00</b>
+              por apenas
+              <b className="block text-2xl">por R$ 140,00</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -138,308 +175,19 @@ export default function Products() {
               </a>
             </p>
           </li>
-
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={dismember}
-                alt="Camiseta: Dismember - Massive Killing Capacity"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Dismember
-            </h3>
-            <h4 className=" font-sans font-bold">Massive Killing Capacity</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/dismember-massive-killing-capacity-2s3vr"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={katatonia}
-                alt="Camiseta: Katatonia - Dance of December Souls"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Katatonia
-            </h3>
-            <h4 className=" font-sans font-bold">Dance of December Souls</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/katatonia-dance-of-december-souls-9j2z5"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={insolitude}
-                alt="Camiseta: In Solitude - The World The Flesh The Devil"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              In Solitude
-            </h3>
-            <h4 className=" font-sans font-bold">
-              The World The Flesh The Devil
-            </h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/in-solitude-the-world-the-flesh-the-devil-4xdqm"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure>
-              <img src={gackt} alt="Camiseta: Gackt - Mars" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Gackt
-            </h3>
-            <h4 className=" font-sans font-bold">Mars</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/gackt-mars-htoif"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure>
-              <img
-                src={gulu}
-                alt="Camiseta: gulu gulu - Gulu Gulu Ryuushutsu Ongen Shuu"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              gulu gulu
-            </h3>
-            <h4 className=" font-sans font-bold">
-              Gulu Gulu Ryuushutsu Ongen Shuu
-            </h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/gulu-gulu-gulu-gulu-ryuushutsu-ongen-shuu-camiseta-ck6ew"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure>
-              <img src={plastic} alt="Camiseta: Plastic Tree - Ink" />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Plastic Tree
-            </h3>
-            <h4 className=" font-sans font-bold">Ink</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 104,90</del>
-              <b className="block text-2xl">por R$ 97,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/plastic-tree-ink-camiseta-68fsr"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure className="bg-red-700">
-              <a
-                className=" opacity-100 hover:opacity-85 transition"
-                href="https://loja.morterubra.com.br/?cat=visual-kei"
-              >
-                <img
-                  src={home_vkei}
-                  alt="Camisetas - Coleção: Visual Kei Assault"
-                />
-              </a>
-            </figure>
-            <h4 className=" font-sans font-bold">Coleção</h4>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              V系 Assault
-            </h3>
-
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/?cat=visual-kei"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure className="bg-yellow-400">
-              <a
-                className=" opacity-100 hover:opacity-85 transition"
-                href="https://loja.morterubra.com.br/caneca-dead-ztoqe"
-              >
-                <img src={home_mugs} alt="Canecas - Coleção: Mugs on Musg" />
-              </a>
-            </figure>
-            <h4 className=" font-sans font-bold">Coleção</h4>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Mugs on Mugs
-            </h3>
-
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/caneca-dead-ztoqe"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li className="flex flex-col">
-            <figure className="bg-red-700">
-              <a
-                className=" opacity-100 hover:opacity-85 transition"
-                href="https://loja.morterubra.com.br/?cat=black-metal"
-              >
-                <img
-                  src={home_black}
-                  alt="Camisetas - Coleção: Hordes from the Black"
-                />
-              </a>
-            </figure>
-            <h4 className=" font-sans font-bold">Coleção</h4>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Hordes from the Black
-            </h3>
-
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/?cat=black-metal"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure className="bg-red-700">
-              <a
-                className=" opacity-100 hover:opacity-85 transition"
-                href="https://loja.morterubra.com.br/?cat=viking-metal"
-              >
-                <img
-                  src={home_bathory}
-                  alt="Camisetas - Coleção: Visual Kei Assault"
-                />
-              </a>
-            </figure>
-            <h4 className=" font-sans font-bold">Coleção</h4>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Bathory - The Norse Years
-            </h3>
-
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/?cat=viking-metal"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li className="flex flex-col">
-            <figure className="bg-red-700">
-              <a
-                className=" opacity-100 hover:opacity-85 transition"
-                href="https://loja.morterubra.com.br/?cat=death-metal"
-              >
-                <img
-                  src={home_death}
-                  alt="Camisetas - Coleção: Melodies of Death"
-                />
-              </a>
-            </figure>
-            <h4 className=" font-sans font-bold">Coleção</h4>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Melodies of Death
-            </h3>
-
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/?cat=death-metal"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
         </ul>
+        <div>
+          <h3 className="max-w-3xl text-center mx-auto mt-28 mb-10 font-sans font-bold text-5xl text-amber-100">
+            Explore nosso catálogo completo com mais de 100 estampas exclusivas!
+          </h3>
+        </div>
+        <a
+          className="block my-4 mb-20 text-2xl text-center border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+          href="https://loja.morterubra.com.br"
+        >
+          VER TODOS OS PRODUTOS
+        </a>
       </section>
     </>
   );

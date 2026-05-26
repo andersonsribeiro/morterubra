@@ -7,7 +7,9 @@ export default function Header() {
         max-sm:text-center max-sm:flex-col fixed top-0 left-0 bg-black"
     >
       <h1 className="w-40 max-sm:mx-auto">
-        <img className=" w-full" src={logo} alt="" />
+        <a href="https://morterubra.com.br">
+          <img className=" w-full" src={logo} alt="Morte Rubra" />
+        </a>
       </h1>
       <a
         className="block border-2 transition border-amber-100 rounded-lg px-4 py-3
