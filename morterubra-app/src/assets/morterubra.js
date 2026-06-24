@@ -1,0 +1,4 @@
+$(document).ready(function () {
+  document.querySelector("footer div").innerHTML =
+    '<a href="https://loja.morterubra.com.br/" class="js-monitorar-clique" data-tipo="footer_loja" data-origem="footer_logo_loja"><img data-edit="logoDaLojaRodape" src = "https://images.mont.ink/perfil_montink/1715323543663dc2971136b.png?width=150&amp;height=50" alt = "Morte Rubra"></a><div><a data-toggle="modal" data-target="#modal-faleconosco" href="#" id="btn-faleconosco" class="js-monitorar-clique" data-tipo="footer_loja" data-origem="footer_faleconosco"><h3>Fale conosco</h3></a><a href="https://morterubra.com.br/politica-de-troca-e-devolucao" title="Política de troca" target="_blank"><h3>Política de Troca e Devolução</h3></a></div><div style="text-align:center;"><b>E-mail:</b>sac@morterubra.com.br<br /><b>WhatsApp:</b> (11) 91274-6145</div>';
+});

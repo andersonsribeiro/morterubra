@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Home from "./components/Home/Home";
 import Lancamento from "./pages/Lancamento";
 import BaraNoSeidou from "./pages/baranoseidou/Page";
+import PoliticaDeTrocaEDevolucao from "./pages/PoliticaDeTrocaEDevolucao";
 
 export default function App() {
   return (
@@ -17,6 +18,10 @@ export default function App() {
           <Route
             path="/malice-mizer/bara-no-seidou"
             element={<BaraNoSeidou />}
+          />
+          <Route
+            path="/politica-de-troca-e-devolucao"
+            element={<PoliticaDeTrocaEDevolucao />}
           />
         </Routes>
       </BrowserRouter>
