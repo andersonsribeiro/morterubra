@@ -19,7 +19,8 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Mystification</h4>
             <p>
-              <b className="block text-2xl">por apenas R$ 92,90</b>
+              por apenas
+              <b className="block text-2xl">R$ 92,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -47,7 +48,8 @@ export default function Products() {
 
             <p>
               {/* <del className="block text-xl">de R$ 94,90</del> */}
-              <b className="block text-2xl">por apenas R$ 92,90</b>
+              por apenas
+              <b className="block text-2xl">R$ 92,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -71,7 +73,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">por R$ 92,90</b>
+              <b className="block text-2xl">R$ 92,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -101,7 +103,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">por R$ 92,90</b>
+              <b className="block text-2xl">R$ 92,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -128,7 +130,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">por R$ 159,90</b>
+              <b className="block text-2xl">R$ 159,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -158,7 +160,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">por R$ 159,90</b>
+              <b className="block text-2xl">R$ 159,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
