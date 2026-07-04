@@ -130,7 +130,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">R$ 159,90</b>
+              <b className="block text-2xl">R$ 149,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -160,7 +160,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">R$ 159,90</b>
+              <b className="block text-2xl">R$ 149,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
