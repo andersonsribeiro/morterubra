@@ -18,12 +18,8 @@ export default function Products() {
               Manilla Road
             </h3>
             <h4 className=" font-sans font-bold">Mystification</h4>
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
             <p>
-              <del className="block text-xl">de R$ 94,90</del>
-              <b className="block text-2xl">por R$ 89,90</b>
+              <b className="block text-2xl">por apenas R$ 92,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -45,13 +41,13 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Time</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+            {/* <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
               desconto de lançamento
-            </span>
+            </span> */}
 
             <p>
-              <del className="block text-xl">de R$ 94,90</del>
-              <b className="block text-2xl">por R$ 89,90</b>
+              {/* <del className="block text-xl">de R$ 94,90</del> */}
+              <b className="block text-2xl">por apenas R$ 92,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -75,7 +71,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">por R$ 94,90</b>
+              <b className="block text-2xl">por R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -105,7 +101,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">por R$ 94,90</b>
+              <b className="block text-2xl">por R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -132,7 +128,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">por R$ 140,00</b>
+              <b className="block text-2xl">por R$ 159,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -162,7 +158,7 @@ export default function Products() {
 
             <p>
               por apenas
-              <b className="block text-2xl">por R$ 140,00</b>
+              <b className="block text-2xl">por R$ 159,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
