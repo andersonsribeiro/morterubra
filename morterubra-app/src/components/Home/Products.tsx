@@ -4,12 +4,76 @@ import sanslogique_oversized from "../../assets/img/LOJA_CAMISETA-THUMB-SANSLOGI
 import sanslogique from "../../assets/img/LOJA_CAMISETA-THUMB-SANSLOGIQUE-A.png";
 import manilla from "../../assets/img/LOJA_CAMISETA-THUMB-MANILLA-A.png";
 import mercyful from "../../assets/img/LOJA_CAMISETA-THUMB-MERCYFUL-A.png";
+import odium from "../../assets/img/LOJA_CAMISETA-THUMB-ODIUM-A.png";
+import limbonic_art from "../../assets/img/LOJA_CAMISETA-THUMB-LIMBONIC-ART-A.png";
 
 export default function Products() {
   return (
     <>
       <section className="max-w-5xl mx-auto">
         <ul id="products">
+          <li>
+            <figure>
+              <img src={odium} alt="Odium - The Sad Realm of the Stars" />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Odium
+            </h3>
+            <h4 className=" font-sans font-bold">The Sad Realm of the Stars</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 109,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/odium-the-sad-realm-of-the-stars-nefzs"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src={limbonic_art}
+                alt="Limbonic Art - Moon in the Scorpio"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Limbonic Art
+            </h3>
+            <h4 className=" font-sans font-bold">Moon in the Scorpio</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 109,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/limbonic-art-moon-in-the-scorpio-7uz91"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
           <li>
             <figure>
               <img src={manilla} alt="Manilla Road - Mystification" />
