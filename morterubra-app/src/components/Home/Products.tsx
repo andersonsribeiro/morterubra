@@ -82,7 +82,13 @@ export default function Products() {
               Manilla Road
             </h3>
             <h4 className=" font-sans font-bold">Mystification</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto promocional
+            </span>
+
             <p>
+              <del className="block text-xl">de R$ 99,90</del>
               por apenas
               <b className="block text-2xl">R$ 92,90</b>
               <small>em até 3x sem juros</small>
@@ -106,12 +112,12 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Time</h4>
 
-            {/* <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span> */}
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto promocional
+            </span>
 
             <p>
-              {/* <del className="block text-xl">de R$ 94,90</del> */}
+              <del className="block text-xl">de R$ 99,90</del>
               por apenas
               <b className="block text-2xl">R$ 92,90</b>
               <small>em até 3x sem juros</small>
@@ -135,7 +141,12 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Sans Logique</h4>
 
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto promocional
+            </span>
+
             <p>
+              <del className="block text-xl">de R$ 99,90</del>
               por apenas
               <b className="block text-2xl">R$ 92,90</b>
               <small>em até 3x sem juros</small>
@@ -165,7 +176,12 @@ export default function Products() {
               <span className="text-nowrap">-style 93-</span>
             </h4>
 
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto promocional
+            </span>
+
             <p>
+              <del className="block text-xl">de R$ 99,90</del>
               por apenas
               <b className="block text-2xl">R$ 92,90</b>
               <small>em até 3x sem juros</small>
@@ -192,9 +208,14 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Sans Logique</h4>
 
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto promocional
+            </span>
+
             <p>
+              <del className="block text-xl">de R$ 159,90</del>
               por apenas
-              <b className="block text-2xl">R$ 149,90</b>
+              <b className="block text-2xl">R$ 139,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -222,9 +243,14 @@ export default function Products() {
               <span className="text-nowrap">-style 93-</span>
             </h4>
 
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto promocional
+            </span>
+
             <p>
+              <del className="block text-xl">de R$ 159,90</del>
               por apenas
-              <b className="block text-2xl">R$ 149,90</b>
+              <b className="block text-2xl">R$ 139,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
