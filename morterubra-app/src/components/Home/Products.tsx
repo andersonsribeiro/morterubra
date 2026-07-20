@@ -21,14 +21,14 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">The Sad Realm of the Stars</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+            {/* <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
               desconto de lançamento
-            </span>
+            </span> */}
 
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 97,90</b>
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -53,14 +53,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Moon in the Scorpio</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 97,90</b>
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -82,10 +78,6 @@ export default function Products() {
               Manilla Road
             </h3>
             <h4 className=" font-sans font-bold">Mystification</h4>
-
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto promocional
-            </span>
 
             <p>
               <del className="block text-xl">de R$ 99,90</del>
@@ -112,10 +104,6 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Time</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto promocional
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 99,90</del>
               por apenas
@@ -140,10 +128,6 @@ export default function Products() {
               Malice Mizer
             </h3>
             <h4 className=" font-sans font-bold">Sans Logique</h4>
-
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto promocional
-            </span>
 
             <p>
               <del className="block text-xl">de R$ 99,90</del>
@@ -176,10 +160,6 @@ export default function Products() {
               <span className="text-nowrap">-style 93-</span>
             </h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto promocional
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 99,90</del>
               por apenas
@@ -208,14 +188,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Sans Logique</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto promocional
-            </span>
-
             <p>
-              <del className="block text-xl">de R$ 159,90</del>
+              <del className="block text-xl">de R$ 169,90</del>
               por apenas
-              <b className="block text-2xl">R$ 139,90</b>
+              <b className="block text-2xl">R$ 149,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -243,21 +219,17 @@ export default function Products() {
               <span className="text-nowrap">-style 93-</span>
             </h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto promocional
-            </span>
-
             <p>
-              <del className="block text-xl">de R$ 159,90</del>
+              <del className="block text-xl">de R$ 169,90</del>
               por apenas
-              <b className="block text-2xl">R$ 139,90</b>
+              <b className="block text-2xl">R$ 149,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
               <a
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/malice-mizer-sans-logique-oversized-vwkji"
+                href="https://loja.morterubra.com.br/buck-tick-darker-than-darkness-style-93-oversized-ixtbn"
               >
                 IR PARA A LOJA
               </a>
