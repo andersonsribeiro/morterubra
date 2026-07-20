@@ -189,7 +189,7 @@ export default function Products() {
             <h4 className=" font-sans font-bold">Sans Logique</h4>
 
             <p>
-              <del className="block text-xl">de R$ 169,90</del>
+              <del className="block text-xl">de R$ 159,90</del>
               por apenas
               <b className="block text-2xl">R$ 149,90</b>
               <small>em até 3x sem juros</small>
@@ -220,7 +220,7 @@ export default function Products() {
             </h4>
 
             <p>
-              <del className="block text-xl">de R$ 169,90</del>
+              <del className="block text-xl">de R$ 159,90</del>
               por apenas
               <b className="block text-2xl">R$ 149,90</b>
               <small>em até 3x sem juros</small>
