@@ -1,0 +1,18 @@
+{
+  "title": "Caneca - Dead",
+  "bandName": "Mayhem",
+  "bandSlug": "mayhem",
+  "album": "Dead",
+  "albumSlug": "dead",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Dead, do Mayhem.",
+  "imageBase": "https://images.morterubra.com.br/mayhem/dead",
+  "products": [
+    {
+      "type": "mug",
+      "name": "Caneca",
+      "url": "https://loja.morterubra.com.br/caneca-dead-ztoqe"
+    }
+  ]
+}

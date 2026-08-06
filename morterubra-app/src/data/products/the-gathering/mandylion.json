@@ -1,0 +1,18 @@
+{
+  "title": "The Gathering - Mandylion",
+  "bandName": "The Gathering",
+  "bandSlug": "the-gathering",
+  "album": "Mandylion",
+  "albumSlug": "mandylion",
+  "category": "Gothic Metal",
+  "categorySlug": "gothic-metal",
+  "description": "Camiseta inspirada no álbum Mandylion, do The Gathering.",
+  "imageBase": "https://images.morterubra.com.br/the-gathering/mandylion",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/the-gathering-mandylion-v8m67"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Gates of Ishtar - A Bloodred Path",
+  "bandName": "Gates of Ishtar",
+  "bandSlug": "gates-of-ishtar",
+  "album": "A Bloodred Path",
+  "albumSlug": "a-bloodred-path",
+  "category": "Death Metal",
+  "categorySlug": "death-metal",
+  "description": "Camiseta inspirada no álbum A Bloodred Path, do Gates of Ishtar.",
+  "imageBase": "https://images.morterubra.com.br/gates-of-ishtar/a-bloodred-path",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/gates-of-ishtar-a-bloodred-path-ei0w7"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title": "D erlanger - La Vie En Rose",
+  "bandName": "D'erlanger",
+  "bandSlug": "derlanger",
+  "album": "La Vie En Rose",
+  "albumSlug": "la-vie-en-rose",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum La Vie En Rose, do D'erlanger.",
+  "imageBase": "https://images.morterubra.com.br/derlanger/la-vie-en-rose",
+  "products": [
+    {
+      "type": "t-shirt-white",
+      "name": "Camiseta Branca",
+      "url": "https://loja.morterubra.com.br/d-erlanger-la-vie-en-rose-bpa0r"
+    },
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/d-erlanger-la-vie-en-rose-tof7x"
+    },
+    {
+      "type": "oversized-off-white",
+      "name": "Oversized Off-White",
+      "url": "https://loja.morterubra.com.br/d-erlanger-la-vie-en-rose-oversized-kbazc"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/d-erlanger-la-vie-en-rose-oversized-jzdzg"
+    }
+  ]
+}

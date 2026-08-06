@@ -1,0 +1,18 @@
+{
+  "title": "Domine - Dragonlord (Tales Of The Noble Steel)",
+  "bandName": "Domine",
+  "bandSlug": "domine",
+  "album": "Dragonlord (Tales Of The Noble Steel)",
+  "albumSlug": "dragonlord",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum Dragonlord (Tales Of The Noble Steel), do Domine.",
+  "imageBase": "https://images.morterubra.com.br/domine/dragonlord",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/domine-dragonlord-tales-of-the-noble-steel-wjhui"
+    }
+  ]
+}

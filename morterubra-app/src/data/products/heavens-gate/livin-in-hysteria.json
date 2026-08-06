@@ -1,0 +1,18 @@
+{
+  "title": "Heaven's Gate - Livin' in Hysteria",
+  "bandName": "Heaven's Gate",
+  "bandSlug": "heavens-gate",
+  "album": "Livin' in Hysteria",
+  "albumSlug": "livin-in-hysteria",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum Livin' in Hysteria, do Heaven's Gate.",
+  "imageBase": "https://images.morterubra.com.br/heavens-gate/livin-in-hysteria",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/heaven-s-gate-livin-in-hysteria-i52j5"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Buck Tick - Aku no Hana",
+  "bandName": "BUCK-TICK",
+  "bandSlug": "buck-tick",
+  "album": "Aku no Hana",
+  "albumSlug": "aku-no-hana",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Aku no Hana, do BUCK-TICK.",
+  "imageBase": "https://images.morterubra.com.br/buck-tick/aku-no-hana",
+  "products": [
+    {
+      "type": "t-shirt-white",
+      "name": "Camiseta Branca",
+      "url": "https://loja.morterubra.com.br/buck-tick-aku-no-hana-branca-fzmez"
+    },
+    {
+      "type": "bag",
+      "name": "Ecobag",
+      "url": "https://loja.morterubra.com.br/buck-tick-aku-no-hana-ecobag-uwbar"
+    },
+    {
+      "type": "oversized-off-white",
+      "name": "Oversized Off-White",
+      "url": "https://loja.morterubra.com.br/buck-tick-aku-no-hana-oversized-off-white-01s6w"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/buck-tick-aku-no-hana-oversized-preta-13hfq"
+    },
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/buck-tick-aku-no-hana-preta-khgma"
+    }
+  ]
+}

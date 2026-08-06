@@ -1,0 +1,18 @@
+{
+  "title": "Bathory - Blood on Ice",
+  "bandName": "Bathory",
+  "bandSlug": "bathory",
+  "album": "Blood on Ice",
+  "albumSlug": "blood-on-ice",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Blood on Ice, do Bathory.",
+  "imageBase": "https://images.morterubra.com.br/bathory/blood-on-ice",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/bathory-blood-on-ice-vvd1g"
+    }
+  ]
+}

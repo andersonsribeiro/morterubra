@@ -1,0 +1,18 @@
+{
+  "title": "Malice Mizer - Memoire",
+  "bandName": "Malice Mizer",
+  "bandSlug": "malice-mizer",
+  "album": "Memoire",
+  "albumSlug": "memoire",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Memoire, do Malice Mizer.",
+  "imageBase": "https://images.morterubra.com.br/malice-mizer/memoire",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/malice-mizer-memoire-s8sjs"
+    }
+  ]
+}

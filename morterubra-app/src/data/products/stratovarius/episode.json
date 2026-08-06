@@ -1,0 +1,18 @@
+{
+  "title": "Stratovarius - Episode",
+  "bandName": "Stratovarius",
+  "bandSlug": "stratovarius",
+  "album": "Episode",
+  "albumSlug": "episode",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum Episode, do Stratovarius.",
+  "imageBase": "https://images.morterubra.com.br/stratovarius/episode",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/stratovarius-episode-zh1sn"
+    }
+  ]
+}

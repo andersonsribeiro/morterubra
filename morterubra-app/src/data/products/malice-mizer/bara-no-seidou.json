@@ -1,0 +1,18 @@
+{
+  "title": "Malice Mizer - Bara no Seidou",
+  "bandName": "Malice Mizer",
+  "bandSlug": "malice-mizer",
+  "album": "Bara no Seidou",
+  "albumSlug": "bara-no-seidou",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Bara no Seidou, do Malice Mizer.",
+  "imageBase": "https://images.morterubra.com.br/malice-mizer/bara-no-seidou",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/malice-mizer-bara-no-seidou-gshfy"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "L'arc en Ciel – True",
+  "bandName": "L'arc en Ciel",
+  "bandSlug": "larc-en-ciel",
+  "album": "True",
+  "albumSlug": "true",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum True, do L'arc en Ciel.",
+  "imageBase": "https://images.morterubra.com.br/larc-en-ciel/true",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/l-arc-en-ciel-p5q1n"
+    },
+    {
+      "type": "bag",
+      "name": "Ecobag",
+      "url": "https://loja.morterubra.com.br/l-arc-en-ciel-true-ecobag-txct5"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/l-arc-en-ciel-qjjcx"
+    }
+  ]
+}

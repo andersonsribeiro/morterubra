@@ -22,7 +22,7 @@ export default function Home() {
       </main>
 
       <div className=" text-center my-10 py-4 px-2 bg-amber-100 text-black">
-        camisetas 100% algodão / meia malha penteada / fio 30.1 / impressão em
+        camisetas 100% algodão / meia malha penteada / fio 30.1 / estampa em
         silk digital com alta definição
       </div>
 

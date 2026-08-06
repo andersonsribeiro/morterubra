@@ -1,0 +1,28 @@
+{
+  "title": "Malice Mizer - Sans Logique",
+  "bandName": "Malice Mizer",
+  "bandSlug": "malice-mizer",
+  "album": "Sans Logique",
+  "albumSlug": "sans-logique",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Sans Logique, do Malice Mizer.",
+  "imageBase": "https://images.morterubra.com.br/malice-mizer/sans-logique",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/malice-mizer-sans-logique-ta9qd"
+    },
+    {
+      "type": "bag",
+      "name": "Ecobag",
+      "url": "https://loja.morterubra.com.br/eco-bag-sans-logique-qnb3w"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/malice-mizer-sans-logique-oversized-h04bc"
+    }
+  ]
+}

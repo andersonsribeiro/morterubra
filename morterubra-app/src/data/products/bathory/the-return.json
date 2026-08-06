@@ -1,0 +1,18 @@
+{
+  "title": "Bathory - The Return......",
+  "bandName": "Bathory",
+  "bandSlug": "bathory",
+  "album": "The Return......",
+  "albumSlug": "the-return",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum The Return......, do Bathory.",
+  "imageBase": "https://images.morterubra.com.br/bathory/the-return",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/bathory-the-return-jemyd"
+    }
+  ]
+}

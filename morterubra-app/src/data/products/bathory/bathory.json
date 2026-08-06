@@ -1,0 +1,18 @@
+{
+  "title": "Bathory - Bathory",
+  "bandName": "Bathory",
+  "bandSlug": "bathory",
+  "album": "Bathory",
+  "albumSlug": "bathory",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Bathory, do Bathory.",
+  "imageBase": "https://images.morterubra.com.br/bathory/bathory",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/bathory-bathory-hk7i7"
+    }
+  ]
+}

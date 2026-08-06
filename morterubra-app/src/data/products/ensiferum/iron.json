@@ -1,0 +1,18 @@
+{
+  "title": "Ensiferum - Iron",
+  "bandName": "Ensiferum",
+  "bandSlug": "ensiferum",
+  "album": "Iron",
+  "albumSlug": "iron",
+  "category": "Viking Metal",
+  "categorySlug": "viking-metal",
+  "description": "Camiseta inspirada no álbum Iron, do Ensiferum.",
+  "imageBase": "https://images.morterubra.com.br/ensiferum/iron",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/ensiferum-iron-maoun"
+    }
+  ]
+}

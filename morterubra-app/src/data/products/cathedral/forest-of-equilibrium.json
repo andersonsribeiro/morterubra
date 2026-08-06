@@ -1,0 +1,18 @@
+{
+  "title": "Cathedral - Forest of Equelibrium",
+  "bandName": "Cathedral",
+  "bandSlug": "cathedral",
+  "album": "Forest of Equilibrium",
+  "albumSlug": "forest-of-equilibrium",
+  "category": "Doom Metal",
+  "categorySlug": "doom-metal",
+  "description": "Camiseta inspirada no álbum Forest of Equilibrium, do Cathedral.",
+  "imageBase": "https://images.morterubra.com.br/cathedral/forest-of-equilibrium",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/cathedral-forest-of-equelibrium-f5z3u"
+    }
+  ]
+}

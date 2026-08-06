@@ -1,0 +1,18 @@
+{
+  "title": "Malice Mizer - Voyage Sans Retour",
+  "bandName": "Malice Mizer",
+  "bandSlug": "malice-mizer",
+  "album": "Voyage ~Sans Retour~",
+  "albumSlug": "voyage-sans-retour",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Voyage ~Sans Retour~, do Malice Mizer.",
+  "imageBase": "https://images.morterubra.com.br/malice-mizer/voyage-sans-retour",
+  "products": [
+    {
+      "type": "t-shirt-white",
+      "name": "Camiseta Branca",
+      "url": "https://loja.morterubra.com.br/malice-mizer-voyage-sans-retour-h7ll5"
+    }
+  ]
+}

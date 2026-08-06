@@ -1,0 +1,18 @@
+{
+  "title": "Caneca - King Diamond",
+  "bandName": "King Diamond",
+  "bandSlug": "king-diamond",
+  "album": "Halloween",
+  "albumSlug": "halloween",
+  "category": "Heavy Metal",
+  "categorySlug": "heavy-metal",
+  "description": "Camiseta inspirada no álbum Halloween, do King Diamond.",
+  "imageBase": "https://images.morterubra.com.br/king-diamond/halloween",
+  "products": [
+    {
+      "type": "mug",
+      "name": "Caneca",
+      "url": "https://loja.morterubra.com.br/caneca-king-diamond-k8uxc"
+    }
+  ]
+}

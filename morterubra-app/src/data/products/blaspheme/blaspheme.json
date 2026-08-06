@@ -1,0 +1,18 @@
+{
+  "title": "Blasphème - Blasphème",
+  "bandName": "Blasphème",
+  "bandSlug": "blaspheme",
+  "album": "Blasphème",
+  "albumSlug": "blaspheme",
+  "category": "Heavy Metal",
+  "categorySlug": "heavy-metal",
+  "description": "Camiseta inspirada no álbum Blasphème, do Blasphème.",
+  "imageBase": "https://images.morterubra.com.br/blaspheme/blaspheme",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/blaspheme-blaspheme-4cm4w"
+    }
+  ]
+}

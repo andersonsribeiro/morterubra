@@ -1,0 +1,18 @@
+{
+  "title": "Gamma Ray - Land of the Free",
+  "bandName": "Gamma Ray",
+  "bandSlug": "gamma-ray",
+  "album": "Land of the Free",
+  "albumSlug": "land-of-the-free",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum Land of the Free, do Gamma Ray.",
+  "imageBase": "https://images.morterubra.com.br/gamma-ray/land-of-the-free",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/gamma-ray-land-of-the-free-8iiam"
+    }
+  ]
+}

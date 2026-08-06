@@ -1,0 +1,18 @@
+{
+  "title": "Ulver - Nattens Madrigal",
+  "bandName": "Ulver",
+  "bandSlug": "ulver",
+  "album": "Nattens Madrigal",
+  "albumSlug": "nattens-madrigal",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Nattens Madrigal, do Ulver.",
+  "imageBase": "https://images.morterubra.com.br/ulver/nattens-madrigal",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/ulver-nattens-madrigal-ks8z0"
+    }
+  ]
+}

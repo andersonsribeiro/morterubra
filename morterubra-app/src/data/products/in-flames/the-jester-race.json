@@ -1,0 +1,18 @@
+{
+  "title": "In Flames - The Jester Race",
+  "bandName": "In Flames",
+  "bandSlug": "in-flames",
+  "album": "The Jester Race",
+  "albumSlug": "the-jester-race",
+  "category": "Death Metal",
+  "categorySlug": "death-metal",
+  "description": "Camiseta inspirada no álbum The Jester Race, do In Flames.",
+  "imageBase": "https://images.morterubra.com.br/in-flames/the-jester-race",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/in-flames-the-jester-race-hssn2"
+    }
+  ]
+}

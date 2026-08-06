@@ -1,0 +1,18 @@
+{
+  "title": "Dark Tranquillity - The Gallery",
+  "bandName": "Dark Tranquility",
+  "bandSlug": "dark-tranquility",
+  "album": "The Gallery",
+  "albumSlug": "the-gallery",
+  "category": "Death Metal",
+  "categorySlug": "death-metal",
+  "description": "Camiseta inspirada no álbum The Gallery, do Dark Tranquility.",
+  "imageBase": "https://images.morterubra.com.br/dark-tranquility/the-gallery",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/dark-tranquillity-the-gallery-6gugb"
+    }
+  ]
+}

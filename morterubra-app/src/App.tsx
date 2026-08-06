@@ -5,6 +5,7 @@ import Home from "./components/Home/Home";
 import Lancamento from "./pages/Lancamento";
 import BaraNoSeidou from "./pages/baranoseidou/Page";
 import PoliticaDeTrocaEDevolucao from "./pages/PoliticaDeTrocaEDevolucao";
+import ProductPage from "./pages/product/ProductPage";
 
 export default function App() {
   return (
@@ -15,10 +16,8 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/lancamento" element={<Lancamento />} />
-          <Route
-            path="/malice-mizer/bara-no-seidou"
-            element={<BaraNoSeidou />}
-          />
+          <Route path="/:bandSlug/:albumSlug" element={<ProductPage />} />
+          <Route path="/bara-no-seidou" element={<BaraNoSeidou />} />
           <Route
             path="/politica-de-troca-e-devolucao"
             element={<PoliticaDeTrocaEDevolucao />}

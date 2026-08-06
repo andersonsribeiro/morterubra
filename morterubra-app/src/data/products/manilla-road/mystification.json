@@ -1,0 +1,18 @@
+{
+  "title": "Manilla Road - Mystification",
+  "bandName": "Manilla Road",
+  "bandSlug": "manilla-road",
+  "album": "Mystification",
+  "albumSlug": "mystification",
+  "category": "Heavy Metal",
+  "categorySlug": "heavy-metal",
+  "description": "Camiseta inspirada no álbum Mystification, do Manilla Road.",
+  "imageBase": "https://images.morterubra.com.br/manilla-road/mystification",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/manilla-road-mystification-imrtt"
+    }
+  ]
+}

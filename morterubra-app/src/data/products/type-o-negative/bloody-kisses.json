@@ -1,0 +1,18 @@
+{
+  "title": "Type O Negative - Bloody Kisses",
+  "bandName": "Type O Negative",
+  "bandSlug": "type-o-negative",
+  "album": "Bloody Kisses",
+  "albumSlug": "bloody-kisses",
+  "category": "Gothic Metal",
+  "categorySlug": "gothic-metal",
+  "description": "Camiseta inspirada no álbum Bloody Kisses, do Type O Negative.",
+  "imageBase": "https://images.morterubra.com.br/type-o-negative/bloody-kisses",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/type-o-negative-bloody-kisses-rjpgl"
+    }
+  ]
+}

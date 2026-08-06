@@ -1,0 +1,28 @@
+{
+  "title": "X - Vanishing Vision",
+  "bandName": "X",
+  "bandSlug": "x",
+  "album": "Vanishing Vision",
+  "albumSlug": "vanishing-vision",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Vanishing Vision, do X.",
+  "imageBase": "https://images.morterubra.com.br/x/vanishing-vision",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/x-vanishing-vision-t3250"
+    },
+    {
+      "type": "bag",
+      "name": "Ecobag",
+      "url": "https://loja.morterubra.com.br/x-vanishing-vision-ecobag-z0lc9"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/x-vanishing-vision-oversized-021l0"
+    }
+  ]
+}

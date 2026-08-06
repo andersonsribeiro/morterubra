@@ -1,0 +1,18 @@
+{
+  "title": "Mithotyn - King of the Distant Forest",
+  "bandName": "Mithotyn",
+  "bandSlug": "mithotyn",
+  "album": "King of the Distant Forest",
+  "albumSlug": "king-of-the-distant-forest",
+  "category": "Viking Metal",
+  "categorySlug": "viking-metal",
+  "description": "Camiseta inspirada no álbum King of the Distant Forest, do Mithotyn.",
+  "imageBase": "https://images.morterubra.com.br/mithotyn/king-of-the-distant-forest",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/mithotyn-king-of-the-distant-forest-09ril"
+    }
+  ]
+}

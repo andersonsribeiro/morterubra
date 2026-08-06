@@ -1,0 +1,18 @@
+{
+  "title": "Unanimated - Ancient God of Evil",
+  "bandName": "Unanimated",
+  "bandSlug": "unanimated",
+  "album": "Ancient God of Evil",
+  "albumSlug": "ancient-god-of-evil",
+  "category": "Death Metal",
+  "categorySlug": "death-metal",
+  "description": "Camiseta inspirada no álbum Ancient God of Evil, do Unanimated.",
+  "imageBase": "https://images.morterubra.com.br/unanimated/ancient-god-of-evil",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/unanimated-ancient-god-of-evil-iykav"
+    }
+  ]
+}

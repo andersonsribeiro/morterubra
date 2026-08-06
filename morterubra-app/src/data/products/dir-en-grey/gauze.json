@@ -1,0 +1,38 @@
+{
+  "title": "Dir en grey - GAUZE",
+  "bandName": "Dir en Grey",
+  "bandSlug": "dir-en-grey",
+  "album": "GAUZE",
+  "albumSlug": "gauze",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum GAUZE, do Dir en Grey.",
+  "imageBase": "https://images.morterubra.com.br/dir-en-grey/gauze",
+  "products": [
+    {
+      "type": "t-shirt-white",
+      "name": "Camiseta Branca",
+      "url": "https://loja.morterubra.com.br/dir-en-grey-gauze-branca-7g3ls"
+    },
+    {
+      "type": "bag",
+      "name": "Ecobag",
+      "url": "https://loja.morterubra.com.br/dir-en-grey-gauze-ecobag-p3ht7"
+    },
+    {
+      "type": "oversized-off-white",
+      "name": "Oversized Off-White",
+      "url": "https://loja.morterubra.com.br/dir-en-grey-gauze-oversized-off-white-baat9"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/dir-en-grey-gauze-oversized-preta-1xt1n"
+    },
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/dir-en-grey-gauze-preta-sungy"
+    }
+  ]
+}

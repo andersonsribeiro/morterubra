@@ -1,0 +1,18 @@
+{
+  "title": "Mercyful Fate - Time",
+  "bandName": "Mercyful Fate",
+  "bandSlug": "mercyful-fate",
+  "album": "Time",
+  "albumSlug": "time",
+  "category": "Heavy Metal",
+  "categorySlug": "heavy-metal",
+  "description": "Camiseta inspirada no álbum Time, do Mercyful Fate.",
+  "imageBase": "https://images.morterubra.com.br/mercyful-fate/time",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/mercyful-fate-time-bvyom"
+    }
+  ]
+}

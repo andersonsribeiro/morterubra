@@ -1,0 +1,18 @@
+{
+  "title": "Lost Horizon - Awakening the World",
+  "bandName": "Lost Horizon",
+  "bandSlug": "lost-horizon",
+  "album": "Awakening the World",
+  "albumSlug": "awakening-the-world",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum Awakening the World, do Lost Horizon.",
+  "imageBase": "https://images.morterubra.com.br/lost-horizon/awakening-the-world",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/lost-horizon-awakening-the-world-9u12q"
+    }
+  ]
+}

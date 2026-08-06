@@ -1,0 +1,28 @@
+{
+  "title": "D - Genetic World",
+  "bandName": "D",
+  "bandSlug": "d",
+  "album": "Genetic World",
+  "albumSlug": "genetic-world",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Genetic World, do D.",
+  "imageBase": "https://images.morterubra.com.br/d/genetic-world",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/d-genetic-world-camiseta-bthpx"
+    },
+    {
+      "type": "bag",
+      "name": "Ecobag",
+      "url": "https://loja.morterubra.com.br/d-genetic-world-ecobag-qn5q4"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/d-genetic-world-oversized-aeama"
+    }
+  ]
+}

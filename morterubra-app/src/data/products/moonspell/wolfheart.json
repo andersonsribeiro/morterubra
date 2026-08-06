@@ -1,0 +1,18 @@
+{
+  "title": "Moonspell - Wolfheart",
+  "bandName": "Moonspell",
+  "bandSlug": "moonspell",
+  "album": "Wolfheart",
+  "albumSlug": "wolfheart",
+  "category": "Gothic Metal",
+  "categorySlug": "gothic-metal",
+  "description": "Camiseta inspirada no álbum Wolfheart, do Moonspell.",
+  "imageBase": "https://images.morterubra.com.br/moonspell/wolfheart",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/moonspell-wolfheart-3d3qm"
+    }
+  ]
+}

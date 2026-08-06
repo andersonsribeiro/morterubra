@@ -1,0 +1,18 @@
+{
+  "title": "Bathory - Nordland",
+  "bandName": "Bathory",
+  "bandSlug": "bathory",
+  "album": "Nordland",
+  "albumSlug": "nordland-i",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Nordland, do Bathory.",
+  "imageBase": "https://images.morterubra.com.br/bathory/nordland-i",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/bathory-nordland-r9pir"
+    }
+  ]
+}

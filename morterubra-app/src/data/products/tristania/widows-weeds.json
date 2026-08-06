@@ -1,0 +1,18 @@
+{
+  "title": "Tristania - Widow's Weeds",
+  "bandName": "Tristania",
+  "bandSlug": "tristania",
+  "album": "Widow's Weeds",
+  "albumSlug": "widows-weeds",
+  "category": "Gothic Metal",
+  "categorySlug": "gothic-metal",
+  "description": "Camiseta inspirada no álbum Widow's Weeds, do Tristania.",
+  "imageBase": "https://images.morterubra.com.br/tristania/widows-weeds",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/tristania-widow-s-weeds-77pnj"
+    }
+  ]
+}

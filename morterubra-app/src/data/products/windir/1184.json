@@ -1,0 +1,18 @@
+{
+  "title": "Windir - 1184",
+  "bandName": "Windir",
+  "bandSlug": "windir",
+  "album": "1184",
+  "albumSlug": "1184",
+  "category": "Viking Metal",
+  "categorySlug": "viking-metal",
+  "description": "Camiseta inspirada no álbum 1184, do Windir.",
+  "imageBase": "https://images.morterubra.com.br/windir/1184",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/windir-1184-r0gun"
+    }
+  ]
+}

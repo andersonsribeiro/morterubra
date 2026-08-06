@@ -1,12 +1,3 @@
-import bucktick from "../../assets/img/LOJA_CAMISETA-THUMB-DARKER-A.png";
-import bucktick_oversized from "../../assets/img/LOJA_CAMISETA-THUMB-DARKER-OVERSIZED-A.png";
-import sanslogique_oversized from "../../assets/img/LOJA_CAMISETA-THUMB-SANSLOGIQUE-OVERSIZED-A.png";
-import sanslogique from "../../assets/img/LOJA_CAMISETA-THUMB-SANSLOGIQUE-A.png";
-import manilla from "../../assets/img/LOJA_CAMISETA-THUMB-MANILLA-A.png";
-import mercyful from "../../assets/img/LOJA_CAMISETA-THUMB-MERCYFUL-A.png";
-import odium from "../../assets/img/LOJA_CAMISETA-THUMB-ODIUM-A.png";
-import limbonic_art from "../../assets/img/LOJA_CAMISETA-THUMB-LIMBONIC-ART-A.png";
-
 export default function Products() {
   return (
     <>
@@ -14,7 +5,150 @@ export default function Products() {
         <ul id="products">
           <li>
             <figure>
-              <img src={odium} alt="Odium - The Sad Realm of the Stars" />
+              <img
+                src="https://images.morterubra.com.br/malice-mizer/beast-of-blood/t-shirt-black.webp"
+                alt="Malice Mizer - Beast of Blood"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Beast of Blood</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 109,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-beast-of-blood-t3wgp"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/malice-mizer/beast-of-blood/premium-shirt-red.webp"
+                alt="Malice Mizer - Beast of Blood"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Beast of Blood</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 109,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-beast-of-blood-malha-premium-2bzh8"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/malice-mizer/beast-of-blood/premium-shirt-off-white.webp"
+                alt="Malice Mizer - Beast of Blood"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Beast of Blood</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 109,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-beast-of-blood-malha-premium-2bzh8"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/malice-mizer/beast-of-blood/oversized-black-front.webp"
+                alt="Malice Mizer - Beast of Blood"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Beast of Blood</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 159,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 139,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-beast-of-blood-oversized-ahrn7"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/malice-mizer/beast-of-blood/estonada.webp"
+                alt="Malice Mizer - Beast of Blood"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Malice Mizer
+            </h3>
+            <h4 className=" font-sans font-bold">Beast of Blood</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 119,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 104,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/malice-mizer-beast-of-blood-estonada-k8ceq"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/odium/the-sad-realm-of-the-stars/t-shirt-black.webp"
+                alt="Odium - The Sad Realm of the Stars"
+              />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
               Odium
@@ -44,7 +178,7 @@ export default function Products() {
           <li>
             <figure>
               <img
-                src={limbonic_art}
+                src="https://images.morterubra.com.br/limbonic-art/moon-in-the-scorpio/t-shirt-black.webp"
                 alt="Limbonic Art - Moon in the Scorpio"
               />
             </figure>
@@ -72,7 +206,10 @@ export default function Products() {
 
           <li>
             <figure>
-              <img src={manilla} alt="Manilla Road - Mystification" />
+              <img
+                src="https://images.morterubra.com.br/manilla-road/mystification/t-shirt-black.webp"
+                alt="Manilla Road - Mystification"
+              />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
               Manilla Road
@@ -97,7 +234,10 @@ export default function Products() {
           </li>
           <li>
             <figure>
-              <img src={mercyful} alt="Mercyful Fate - Time" />
+              <img
+                src="https://images.morterubra.com.br/mercyful-fate/time/t-shirt-black.webp"
+                alt="Mercyful Fate - Time"
+              />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
               Mercyful Fate
@@ -122,7 +262,10 @@ export default function Products() {
           </li>
           <li>
             <figure>
-              <img src={sanslogique} alt="Malice Mizer - Sans Logique" />
+              <img
+                src="https://images.morterubra.com.br/malice-mizer/sans-logique/t-shirt-black.webp"
+                alt="Malice Mizer - Sans Logique"
+              />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
               Malice Mizer
@@ -148,7 +291,7 @@ export default function Products() {
           <li>
             <figure>
               <img
-                src={bucktick}
+                src="https://images.morterubra.com.br/buck-tick/darker-than-darkness/t-shirt-black.webp"
                 alt="Buck-Tick - darker than darkness -style 93-"
               />
             </figure>
@@ -179,7 +322,7 @@ export default function Products() {
           <li>
             <figure>
               <img
-                src={sanslogique_oversized}
+                src="https://images.morterubra.com.br/malice-mizer/sans-logique/oversized-black.webp"
                 alt="Malice Mizer - Sans Logique"
               />
             </figure>
@@ -207,7 +350,7 @@ export default function Products() {
           <li>
             <figure>
               <img
-                src={bucktick_oversized}
+                src="https://images.morterubra.com.br/buck-tick/darker-than-darkness/oversized-black.webp"
                 alt="Buck-Tick - darker than darkness -style 93-"
               />
             </figure>

@@ -1,0 +1,43 @@
+{
+  "title": "",
+  "bandName": "",
+  "bandSlug": "",
+  "album": "",
+  "albumSlug": "",
+  "category": "",
+  "categorySlug": "",
+  "description": "Camiseta inspirada no álbum , do .",
+  "imageBase": "https://images.morterubra.com.br//",
+  "products": [
+    {
+      "type": "",
+      "name": "",
+      "url": ""
+    },
+    {
+      "type": "",
+      "name": "",
+      "url": ""
+    },
+    {
+      "type": "",
+      "name": "",
+      "url": ""
+    },
+    {
+      "type": "",
+      "name": "",
+      "url": ""
+    },
+    {
+      "type": "",
+      "name": "",
+      "url": ""
+    },
+    {
+      "type": "",
+      "name": "",
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Odium - The Sad Realm of the Stars",
+  "bandName": "Odium",
+  "bandSlug": "odium",
+  "album": "The Sad Realm of the Stars",
+  "albumSlug": "the-sad-realm-of-the-stars",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum The Sad Realm of the Stars, do Odium.",
+  "imageBase": "https://images.morterubra.com.br/odium/the-sad-realm-of-the-stars",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/odium-the-sad-realm-of-the-stars-nefzs"
+    }
+  ]
+}

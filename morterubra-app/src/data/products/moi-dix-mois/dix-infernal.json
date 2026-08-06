@@ -1,0 +1,23 @@
+{
+  "title": "Moi Dix Mois - Dix Infernal",
+  "bandName": "Moi Dix Mois",
+  "bandSlug": "moi-dix-mois",
+  "album": "Dix Infernal",
+  "albumSlug": "dix-infernal",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Dix Infernal, do Moi Dix Mois.",
+  "imageBase": "https://images.morterubra.com.br/moi-dix-mois/dix-infernal",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/moi-dix-mois-dix-infernal-hgges"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/moi-dix-mois-dix-infernal-mrhzv"
+    }
+  ]
+}

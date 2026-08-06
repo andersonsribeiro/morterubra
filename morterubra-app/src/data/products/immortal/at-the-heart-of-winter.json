@@ -1,0 +1,18 @@
+{
+  "title": "Immortal - At the Heart of Winter",
+  "bandName": "Immortal",
+  "bandSlug": "immortal",
+  "album": "At the Heart of Winter",
+  "albumSlug": "at-the-heart-of-winter",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum At the Heart of Winter, do Immortal.",
+  "imageBase": "https://images.morterubra.com.br/immortal/at-the-heart-of-winter",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/immortal-at-the-heart-of-winter-e4izi"
+    }
+  ]
+}

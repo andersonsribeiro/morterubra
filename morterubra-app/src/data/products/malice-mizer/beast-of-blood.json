@@ -1,0 +1,38 @@
+{
+  "title": "Malice Mizer - Beast of Blood",
+  "bandName": "Malice Mizer",
+  "bandSlug": "malice-mizer",
+  "album": "Beast of Blood",
+  "albumSlug": "beast-of-blood",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta MALICE MIZER – Beast of Blood, inspirada em um dos singles mais icônicos da lendária banda japonesa de Visual Kei.",
+  "imageBase": "https://images.morterubra.com.br/malice-mizer/beast-of-blood",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/malice-mizer-beast-of-blood-t3wgp"
+    },
+    {
+      "type": "premium-shirt-red",
+      "name": "Malha Premium Vermelha",
+      "url": "https://loja.morterubra.com.br/malice-mizer-beast-of-blood-malha-premium-2bzh8"
+    },
+    {
+      "type": "premium-shirt-off-white",
+      "name": "Malha Premium Off-White",
+      "url": "https://loja.morterubra.com.br/malice-mizer-beast-of-blood-malha-premium-2bzh8"
+    },
+    {
+      "type": "oversized-black-front",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/malice-mizer-beast-of-blood-oversized-ahrn7"
+    },
+    {
+      "type": "estonada",
+      "name": "Camiseta Estonada",
+      "url": "https://loja.morterubra.com.br/malice-mizer-beast-of-blood-estonada-k8ceq"
+    }
+  ]
+}

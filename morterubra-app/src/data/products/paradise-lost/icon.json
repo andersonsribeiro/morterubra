@@ -1,0 +1,18 @@
+{
+  "title": "Paradise Lost - Icon",
+  "bandName": "Paradise Lost",
+  "bandSlug": "paradise-lost",
+  "album": "Icon",
+  "albumSlug": "icon",
+  "category": "Doom Metal",
+  "categorySlug": "doom-metal",
+  "description": "Camiseta inspirada no álbum Icon, do Paradise Lost.",
+  "imageBase": "https://images.morterubra.com.br/paradise-lost/icon",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/paradise-lost-icon-ckbmv"
+    }
+  ]
+}

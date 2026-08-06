@@ -1,0 +1,18 @@
+{
+  "title": "Limbonic Art - Moon in the Scorpio",
+  "bandName": "Limbonic Art",
+  "bandSlug": "limbonic-art",
+  "album": "Moon in the Scorpio",
+  "albumSlug": "moon-in-the-scorpio",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Moon in the Scorpio, do Limbonic Art.",
+  "imageBase": "https://images.morterubra.com.br/limbonic-art/moon-in-the-scorpio",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/limbonic-art-moon-in-the-scorpio-7uz91"
+    }
+  ]
+}

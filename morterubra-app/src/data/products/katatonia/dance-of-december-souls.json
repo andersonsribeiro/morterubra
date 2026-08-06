@@ -1,0 +1,18 @@
+{
+  "title": "Katatonia - Dance of December Souls",
+  "bandName": "Katatonia",
+  "bandSlug": "katatonia",
+  "album": "Dance of December Souls",
+  "albumSlug": "dance-of-december-souls",
+  "category": "Doom Metal",
+  "categorySlug": "doom-metal",
+  "description": "Camiseta inspirada no álbum Dance of December Souls, do Katatonia.",
+  "imageBase": "https://images.morterubra.com.br/katatonia/dance-of-december-souls",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/katatonia-dance-of-december-souls-9j2z5"
+    }
+  ]
+}

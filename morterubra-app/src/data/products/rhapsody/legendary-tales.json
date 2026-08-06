@@ -1,0 +1,18 @@
+{
+  "title": "Rhapsody - Legendary Tales",
+  "bandName": "Rhapsody",
+  "bandSlug": "rhapsody",
+  "album": "Legendary Tales",
+  "albumSlug": "legendary-tales",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum Legendary Tales, do Rhapsody.",
+  "imageBase": "https://images.morterubra.com.br/rhapsody/legendary-tales",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/rhapsody-legendary-tales-ba57p"
+    }
+  ]
+}

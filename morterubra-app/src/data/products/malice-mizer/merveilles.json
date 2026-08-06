@@ -1,0 +1,18 @@
+{
+  "title": "Malice Mizer - Merveilles",
+  "bandName": "Malice Mizer",
+  "bandSlug": "malice-mizer",
+  "album": "Merveilles",
+  "albumSlug": "merveilles",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Merveilles, do Malice Mizer.",
+  "imageBase": "https://images.morterubra.com.br/malice-mizer/merveilles",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/malice-mizer-merveilles-bxylc"
+    }
+  ]
+}

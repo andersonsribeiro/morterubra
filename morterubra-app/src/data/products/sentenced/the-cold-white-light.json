@@ -1,0 +1,18 @@
+{
+  "title": "Sentenced - The Cold White Light",
+  "bandName": "Sentenced",
+  "bandSlug": "sentenced",
+  "album": "The Cold White Light",
+  "albumSlug": "the-cold-white-light",
+  "category": "Gothic Metal",
+  "categorySlug": "gothic-metal",
+  "description": "Camiseta inspirada no álbum The Cold White Light, do Sentenced.",
+  "imageBase": "https://images.morterubra.com.br/sentenced/the-cold-white-light",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/sentenced-the-cold-white-light-qs051"
+    }
+  ]
+}

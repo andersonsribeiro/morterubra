@@ -1,0 +1,18 @@
+{
+  "title": "Galneryus - The Flag of Punishment",
+  "bandName": "Galneryus",
+  "bandSlug": "galneryus",
+  "album": "The Flag of Punishment",
+  "albumSlug": "the-flag-of-punishment",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum The Flag of Punishment, do Galneryus.",
+  "imageBase": "https://images.morterubra.com.br/galneryus/the-flag-of-punishment",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/galneryus-the-flag-of-punishment-b72up"
+    }
+  ]
+}

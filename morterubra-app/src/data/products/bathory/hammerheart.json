@@ -1,0 +1,18 @@
+{
+  "title": "Bathory - Hammerheart",
+  "bandName": "Bathory",
+  "bandSlug": "bathory",
+  "album": "Hammerheart",
+  "albumSlug": "hammerheart",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Hammerheart, do Bathory.",
+  "imageBase": "https://images.morterubra.com.br/bathory/hammerheart",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/bathory-hammerheart-vzs0r"
+    }
+  ]
+}

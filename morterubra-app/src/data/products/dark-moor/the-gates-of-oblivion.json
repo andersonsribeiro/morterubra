@@ -1,0 +1,18 @@
+{
+  "title": "Dark Moor - The Gates of Oblivion",
+  "bandName": "Dark Moor",
+  "bandSlug": "dark-moor",
+  "album": "The Gates of Oblivion",
+  "albumSlug": "the-gates-of-oblivion",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum The Gates of Oblivion, do Dark Moor.",
+  "imageBase": "https://images.morterubra.com.br/dark-moor/the-gates-of-oblivion",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/dark-moor-the-gates-of-oblivion-a7n6w"
+    }
+  ]
+}

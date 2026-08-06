@@ -1,0 +1,28 @@
+{
+  "title": "Plastic Tree – Ink",
+  "bandName": "Plastic Tree",
+  "bandSlug": "plastic-tree",
+  "album": "Ink",
+  "albumSlug": "ink",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Ink, do Plastic Tree.",
+  "imageBase": "https://images.morterubra.com.br/plastic-tree/ink",
+  "products": [
+    {
+      "type": "t-shirt-white",
+      "name": "Camiseta Branca",
+      "url": "https://loja.morterubra.com.br/plastic-tree-ink-camiseta-68fsr"
+    },
+    {
+      "type": "bag",
+      "name": "Ecobag",
+      "url": "https://loja.morterubra.com.br/plastic-tree-ink-ecobag-bwi8d"
+    },
+    {
+      "type": "oversized-off-white",
+      "name": "Oversized Off-White",
+      "url": "https://loja.morterubra.com.br/plastic-tree-ink-oversized-yo6he"
+    }
+  ]
+}

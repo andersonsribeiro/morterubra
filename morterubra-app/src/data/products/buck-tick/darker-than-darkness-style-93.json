@@ -1,0 +1,23 @@
+{
+  "title": "BUCK-TICK - darker than darkness -style 93-",
+  "bandName": "BUCK-TICK",
+  "bandSlug": "buck-tick",
+  "album": "darker than darkness -style 93-",
+  "albumSlug": "darker-than-darkness-style-93",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum darker than darkness -style 93-, do BUCK-TICK.",
+  "imageBase": "https://images.morterubra.com.br/buck-tick/darker-than-darkness-style-93",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/buck-tick-darker-than-darkness-style-93-jgfvk"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/buck-tick-darker-than-darkness-style-93-oversized-ixtbn"
+    }
+  ]
+}

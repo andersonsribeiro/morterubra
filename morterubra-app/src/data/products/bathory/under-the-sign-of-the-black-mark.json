@@ -1,0 +1,18 @@
+{
+  "title": "Bathory - Under the Sign of the Black Mark",
+  "bandName": "Bathory",
+  "bandSlug": "bathory",
+  "album": "Under the Sign of the Black Mark",
+  "albumSlug": "under-the-sign-of-the-black-mark",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Under the Sign of the Black Mark, do Bathory.",
+  "imageBase": "https://images.morterubra.com.br/bathory/under-the-sign-of-the-black-mark",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/bathory-under-the-sign-of-the-black-mark-eais8"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Satyricon - Dark Medieval Times",
+  "bandName": "Satyricon",
+  "bandSlug": "satyricon",
+  "album": "Dark Medieval Times",
+  "albumSlug": "dark-medieval-times",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Dark Medieval Times, do Satyricon.",
+  "imageBase": "https://images.morterubra.com.br/satyricon/dark-medieval-times",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/satyricon-dark-medieval-times-s1ccn"
+    }
+  ]
+}

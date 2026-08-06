@@ -1,0 +1,23 @@
+{
+  "title": "gulu gulu - Gulu Gulu Ryuushutsu Ongen Shuu",
+  "bandName": "gulu gulu",
+  "bandSlug": "gulu-gulu",
+  "album": "Gulu Gulu Ryuushutsu Ongen Shuu",
+  "albumSlug": "gulu-gulu-ryuushutsu-ongen-shuu",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Gulu Gulu Ryuushutsu Ongen Shuu, do gulu gulu.",
+  "imageBase": "https://images.morterubra.com.br/gulu-gulu/gulu-gulu-ryuushutsu-ongen-shuu",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/gulu-gulu-gulu-gulu-ryuushutsu-ongen-shuu-camiseta-ck6ew"
+    },
+    {
+      "type": "bag",
+      "name": "Ecobag",
+      "url": "https://loja.morterubra.com.br/gulu-gulu-gulu-gulu-ryuushutsu-ongen-shuu-ecobag-ck47m"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Luna Sea – Mother",
+  "bandName": "Luna Sea",
+  "bandSlug": "luna-sea",
+  "album": "Mother",
+  "albumSlug": "mother",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Mother, do Luna Sea.",
+  "imageBase": "https://images.morterubra.com.br/luna-sea/mother",
+  "products": [
+    {
+      "type": "t-shirt-white",
+      "name": "Camiseta Branca",
+      "url": "https://loja.morterubra.com.br/luna-sea-mother-branca-2lpri"
+    },
+    {
+      "type": "oversized-off-white",
+      "name": "Oversized Off-White",
+      "url": "https://loja.morterubra.com.br/luna-sea-mother-oversized-off-white-q8off"
+    },
+    {
+      "type": "oversized-black",
+      "name": "Oversized Preta",
+      "url": "https://loja.morterubra.com.br/luna-sea-mother-oversized-preta-1quy3"
+    },
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/luna-sea-mother-preta-ovm89"
+    },
+    {
+      "type": "bag",
+      "name": "Ecobag",
+      "url": "https://loja.morterubra.com.br/luna-sea-rosier-ecobag-mx28w"
+    }
+  ]
+}

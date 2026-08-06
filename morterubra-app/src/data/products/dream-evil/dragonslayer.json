@@ -1,0 +1,18 @@
+{
+  "title": "Dream Evil - Dragonslayer",
+  "bandName": "Dream Evil",
+  "bandSlug": "dream-evil",
+  "album": "Dragonslayer",
+  "albumSlug": "dragonslayer",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum Dragonslayer, do Dream Evil.",
+  "imageBase": "https://images.morterubra.com.br/dream-evil/dragonslayer",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/dream-evil-dragonslayer-1npt0"
+    }
+  ]
+}

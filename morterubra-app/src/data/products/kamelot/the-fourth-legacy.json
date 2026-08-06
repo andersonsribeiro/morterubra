@@ -1,0 +1,18 @@
+{
+  "title": "Kamelot - The Fourth Legacy",
+  "bandName": "Kamelot",
+  "bandSlug": "kamelot",
+  "album": "The Fourth Legacy",
+  "albumSlug": "the-fourth-legacy",
+  "category": "Power Metal",
+  "categorySlug": "power-metal",
+  "description": "Camiseta inspirada no álbum The Fourth Legacy, do Kamelot.",
+  "imageBase": "https://images.morterubra.com.br/kamelot/the-fourth-legacy",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/kamelot-the-fourth-legacy-i0w7h"
+    }
+  ]
+}

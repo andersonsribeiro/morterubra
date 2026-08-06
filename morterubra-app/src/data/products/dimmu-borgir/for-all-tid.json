@@ -1,0 +1,18 @@
+{
+  "title": "Dimmu Borgir - For All Tid",
+  "bandName": "Dimmu Borgir",
+  "bandSlug": "dimmu-borgir",
+  "album": "For All Tid",
+  "albumSlug": "for-all-tid",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum For All Tid, do Dimmu Borgir.",
+  "imageBase": "https://images.morterubra.com.br/dimmu-borgir/for-all-tid",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/dimmu-borgir-for-all-tid-85goh"
+    }
+  ]
+}

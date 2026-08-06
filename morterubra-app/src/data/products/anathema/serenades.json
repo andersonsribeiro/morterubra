@@ -1,0 +1,18 @@
+{
+  "title": "Anathema - Serenades",
+  "bandName": "Anathema",
+  "bandSlug": "anathema",
+  "album": "Serenades",
+  "albumSlug": "serenades",
+  "category": "Doom Metal",
+  "categorySlug": "doom-metal",
+  "description": "Camiseta inspirada no álbum Serenades, do Anathema.",
+  "imageBase": "https://images.morterubra.com.br/anathema/serenades",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/anathema-serenades-eq0d2"
+    }
+  ]
+}
