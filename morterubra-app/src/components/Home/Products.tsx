@@ -6,6 +6,34 @@ export default function Products() {
           <li>
             <figure>
               <img
+                src="https://images.morterubra.com.br/iron-maiden/old-school-sthag/premium-shirt-red.webp"
+                alt="Iron Maiden - Old School Sthag"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Iron Maiden
+            </h3>
+            <h4 className=" font-sans font-bold">Logo</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 109,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 99,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/iron-maiden-old-school-sthag"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
                 src="https://images.morterubra.com.br/malice-mizer/beast-of-blood/t-shirt-black.webp"
                 alt="Malice Mizer - Beast of Blood"
               />
