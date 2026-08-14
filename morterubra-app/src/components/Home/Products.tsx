@@ -6,7 +6,7 @@ export default function Products() {
           <li>
             <figure>
               <img
-                src="https://images.morterubra.com.br/iron-maiden/old-school-sthag/premium-shirt-red.webp"
+                src="https://images.morterubra.com.br/iron-maiden/old-school-logo/premium-shirt-red.webp"
                 alt="Iron Maiden - Old School Sthag"
               />
             </figure>
