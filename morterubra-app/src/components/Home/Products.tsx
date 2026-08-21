@@ -46,7 +46,7 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 89,90</b>
+              <b className="block text-2xl">R$ 92,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -74,7 +74,7 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 97,90</b>
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -102,7 +102,7 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 97,90</b>
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -130,7 +130,7 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 159,90</del>
               por apenas
-              <b className="block text-2xl">R$ 139,90</b>
+              <b className="block text-2xl">R$ 149,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -158,7 +158,7 @@ export default function Products() {
             <p>
               <del className="block text-xl">de R$ 119,90</del>
               por apenas
-              <b className="block text-2xl">R$ 104,90</b>
+              <b className="block text-2xl">R$ 109,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
