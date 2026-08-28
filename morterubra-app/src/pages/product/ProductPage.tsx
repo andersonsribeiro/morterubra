@@ -85,7 +85,15 @@ export default function ProductPage() {
                   </del>
                   por apenas
                   <b className="block text-2xl">
-                    <span>R$ {price.sale.toFixed(2).replace(".", ",")}</span>
+                    <span>
+                      R${" "}
+                      {(albumSlug === "beyond-the-veil" || albumSlug === "aegis"
+                        ? price.release
+                        : price.sale
+                      )
+                        .toFixed(2)
+                        .replace(".", ",")}
+                    </span>
                   </b>
                   <small>em até 3x sem juros</small>
                 </p>

@@ -1,0 +1,28 @@
+{
+  "title": "Tristania - Beyond the Veil",
+  "bandName": "Tristania",
+  "bandSlug": "tristania",
+  "album": "Beyond the Veil",
+  "albumSlug": "beyond-the-veil",
+  "category": "Gothic Metal",
+  "categorySlug": "gothic-metal",
+  "description": "Camiseta inspirada no álbum Beyond the Veil, do Tristania.",
+  "imageBase": "https://images.morterubra.com.br/tristania/beyond-the-veil",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/tristania-beyond-the-veil-5oiai"
+    },
+    {
+      "type": "babylook-black",
+      "name": "Camiseta Baby Look Preta",
+      "url": "https://loja.morterubra.com.br/tristania-beyond-the-veil-baby-look-hluor"
+    },
+    {
+      "type": "estonada",
+      "name": "Camiseta Estonada",
+      "url": "https://loja.morterubra.com.br/tristania-beyond-the-veil-estonada-qwxjh"
+    }
+  ]
+}

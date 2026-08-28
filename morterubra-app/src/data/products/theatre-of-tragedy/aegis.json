@@ -1,0 +1,28 @@
+{
+  "title": "Theatre of Tragedy - Aégis",
+  "bandName": "Theatre of Tragedy",
+  "bandSlug": "theatre-of-tragedy",
+  "album": "Aégis",
+  "albumSlug": "aegis",
+  "category": "Gothic Metal",
+  "categorySlug": "gothic-metal",
+  "description": "Camiseta inspirada no álbum Aégis, do Theatre of Tragedy.",
+  "imageBase": "https://images.morterubra.com.br/theatre-of-tragedy/aegis",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/theatre-of-tragedy-aegis-a3hka"
+    },
+    {
+      "type": "babylook-black",
+      "name": "Camiseta Baby Look Preta",
+      "url": "https://loja.morterubra.com.br/theatre-of-tragedy-aegis-baby-look-lstzl"
+    },
+    {
+      "type": "estonada",
+      "name": "Camiseta Estonada",
+      "url": "https://loja.morterubra.com.br/theatre-of-tragedy-aegis-estonada-yrduh"
+    }
+  ]
+}
