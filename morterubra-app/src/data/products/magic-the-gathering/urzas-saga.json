@@ -1,0 +1,33 @@
+{
+  "title": "Magic the Gathering - Urza's Saga",
+  "bandName": "Magic the Gathering",
+  "bandSlugEx": "magic-the-gathering",
+  "album": "Urza's Saga",
+  "albumSlug": "urzas-saga",
+  "category": "MTG",
+  "categorySlug": "magic-the-gathering",
+  "description": "Camiseta inspirada no TCG Magic The Gathering®.",
+  "imageBase": "https://images.morterubra.com.br/magic-the-gathering/urzas-saga",
+  "products": [
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta",
+      "url": "https://loja.morterubra.com.br/mtg-urza-s-saga-vyt45"
+    },
+    {
+      "type": "oversized-black-front",
+      "name": "Oversized",
+      "url": "https://loja.morterubra.com.br/mtg-urza-s-saga-oversized-fy1v5"
+    },
+    {
+      "type": "babylook-black",
+      "name": "Baby Look",
+      "url": "https://loja.morterubra.com.br/mtg-urza-s-saga-baby-look-baau6"
+    },
+    {
+      "type": "plussize",
+      "name": "Plus Size",
+      "url": "https://loja.morterubra.com.br/mtg-urza-s-saga-plus-size-ac6ak"
+    }
+  ]
+}

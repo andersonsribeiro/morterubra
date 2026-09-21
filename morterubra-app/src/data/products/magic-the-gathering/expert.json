@@ -1,0 +1,43 @@
+{
+  "title": "Magic the Gathering - Expert",
+  "bandName": "Magic the Gathering",
+  "bandSlugEx": "magic-the-gathering",
+  "album": "Expert",
+  "albumSlug": "expert",
+  "category": "MTG",
+  "categorySlug": "magic-the-gathering",
+  "description": "Camiseta inspirada no TCG Magic The Gathering®.",
+  "imageBase": "https://images.morterubra.com.br/magic-the-gathering/expert",
+  "products": [
+    {
+      "type": "mug",
+      "name": "Caneca",
+      "url": "https://loja.morterubra.com.br/mtg-expert-caneca-2vg9d"
+    },
+    {
+      "type": "bone-prime",
+      "name": "Boné Prime",
+      "url": "https://loja.morterubra.com.br/mtg-expert-bone-kb650"
+    },
+    {
+      "type": "t-shirt-black",
+      "name": "Camiseta",
+      "url": "https://loja.morterubra.com.br/mtg-expert-kgu10"
+    },
+    {
+      "type": "oversized-black-front",
+      "name": "Oversized",
+      "url": "https://loja.morterubra.com.br/mtg-expert-oversized-mexjl"
+    },
+    {
+      "type": "babylook-black",
+      "name": "Baby Look",
+      "url": "https://loja.morterubra.com.br/mtg-expert-baby-look-kien7"
+    },
+    {
+      "type": "plussize",
+      "name": "Plus Size",
+      "url": "https://loja.morterubra.com.br/mtg-expert-plus-size-5kjjp"
+    }
+  ]
+}

@@ -6,14 +6,78 @@ export default function Products() {
           <li>
             <figure>
               <img
-                src="https://images.morterubra.com.br/tristania/beyond-the-veil/t-shirt-black.webp"
-                alt="Tristania - Beyond the Veil"
+                src="https://images.morterubra.com.br/magic-the-gathering/expert/bone-prime.webp"
+                alt="Magic The Gathering - Expert"
               />
             </figure>
             <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Tristania
+              Magic The Gathering
             </h3>
-            <h4 className=" font-sans font-bold">Beyond the Veil</h4>
+            <h4 className=" font-sans font-bold">Expert</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 129,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 124,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/mtg-expert-bone-kb650"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/magic-the-gathering/expert/mug.webp"
+                alt="Magic The Gathering - Expert"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Magic The Gathering
+            </h3>
+            <h4 className=" font-sans font-bold">Expert</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 59,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 54,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/mtg-expert-caneca-2vg9d"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/magic-the-gathering/expert/t-shirt-black.webp"
+                alt="Magic The Gathering - Expert"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Magic The Gathering
+            </h3>
+            <h4 className=" font-sans font-bold">Expert</h4>
 
             <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
               desconto de lançamento
@@ -23,6 +87,131 @@ export default function Products() {
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
               <b className="block text-2xl">R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/mtg-expert-kgu10"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/magic-the-gathering/urzas-saga/t-shirt-black.webp"
+                alt="Magic The Gathering - Urza's Saga"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Magic The Gathering
+            </h3>
+            <h4 className=" font-sans font-bold">Urza's Saga</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 109,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 97,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/mtg-urza-s-saga-vyt45"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/magic-the-gathering/expert/plussize.webp"
+                alt="Magic The Gathering - Expert"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Magic The Gathering
+            </h3>
+            <h4 className=" font-sans font-bold">Expert</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 119,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 104,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/mtg-expert-plus-size-5kjjp"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/magic-the-gathering/urzas-saga/plussize.webp"
+                alt="Magic The Gathering - Urza's Saga"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Magic The Gathering
+            </h3>
+            <h4 className=" font-sans font-bold">Urza's Saga</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 119,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 104,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/mtg-urza-s-saga-plus-size-ac6ak"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/tristania/beyond-the-veil/t-shirt-black.webp"
+                alt="Tristania - Beyond the Veil"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Tristania
+            </h3>
+            <h4 className=" font-sans font-bold">Beyond the Veil</h4>
+
+            <p>
+              <del className="block text-xl">de R$ 109,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -47,14 +236,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Beyond the Veil</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 97,90</b>
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -62,38 +247,6 @@ export default function Products() {
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
                 href="https://loja.morterubra.com.br/tristania-beyond-the-veil-baby-look-hluor"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li>
-            <figure>
-              <img
-                src="https://images.morterubra.com.br/tristania/beyond-the-veil/estonada.webp"
-                alt="Tristania - Beyond the Veil"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Tristania
-            </h3>
-            <h4 className=" font-sans font-bold">Beyond the Veil</h4>
-
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
-            <p>
-              <del className="block text-xl">de R$ 129,90</del>
-              por apenas
-              <b className="block text-2xl">R$ 114,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/tristania-beyond-the-veil-estonada-qwxjh"
               >
                 IR PARA A LOJA
               </a>
@@ -111,14 +264,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Aégis</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 97,90</b>
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -143,14 +292,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Aégis</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 97,90</b>
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -158,38 +303,6 @@ export default function Products() {
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
                 href="https://loja.morterubra.com.br/theatre-of-tragedy-aegis-baby-look-lstzl"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li>
-            <figure>
-              <img
-                src="https://images.morterubra.com.br/theatre-of-tragedy/aegis/estonada.webp"
-                alt="Theatre of Tragedy - Aégis"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Theatre of Tragedy
-            </h3>
-            <h4 className=" font-sans font-bold">Aégis</h4>
-
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
-            <p>
-              <del className="block text-xl">de R$ 129,90</del>
-              por apenas
-              <b className="block text-2xl">R$ 114,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/theatre-of-tragedy-aegis-estonada-yrduh"
               >
                 IR PARA A LOJA
               </a>

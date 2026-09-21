@@ -11,7 +11,9 @@ export type ProductType =
   | "estonada-front"
   | "premium-shirt-red"
   | "premium-shirt-off-white"
+  | "plussize"
   | "bag"
+  | "bone-prime"
   | "mug";
 
 export type ProductPrice = {
@@ -82,6 +84,12 @@ const productPrices: Record<ProductType, ProductPrice> = {
     sale: 99.9,
     release: 97.9,
   },
+  plussize: {
+    name: "Plus Size",
+    original: 119.9,
+    sale: 109.9,
+    release: 104.9,
+  },
   estonada: {
     name: "Estonada",
     original: 129.9,
@@ -102,9 +110,15 @@ const productPrices: Record<ProductType, ProductPrice> = {
   },
   mug: {
     name: "Caneca",
-    original: 49.9,
-    sale: 39.9,
-    release: 34.9,
+    original: 59.9,
+    sale: 57.9,
+    release: 54.9,
+  },
+  "bone-prime": {
+    name: "Boné Prime",
+    original: 139.9,
+    sale: 129.9,
+    release: 124.9,
   },
 };
 

@@ -79,6 +79,15 @@ export default function ProductPage() {
                 </figure>
 
                 <h3 className=" font-sans font-bold">{item.name}</h3>
+
+                {bandSlug === "magic-the-gathering" ? (
+                  <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+                    desconto de lançamento
+                  </span>
+                ) : (
+                  ""
+                )}
+
                 <p>
                   <del className="block text-xl">
                     de R$ {price.original.toFixed(2).replace(".", ",")}
@@ -87,7 +96,7 @@ export default function ProductPage() {
                   <b className="block text-2xl">
                     <span>
                       R${" "}
-                      {(albumSlug === "beyond-the-veil" || albumSlug === "aegis"
+                      {(bandSlug === "magic-the-gathering"
                         ? price.release
                         : price.sale
                       )
