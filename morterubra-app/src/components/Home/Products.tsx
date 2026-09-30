@@ -6,6 +6,135 @@ export default function Products() {
           <li>
             <figure>
               <img
+                src="https://images.morterubra.com.br/moi-dix-mois/nocturnal-opera/t-shirt-front.webp"
+                alt="Moi dix Mois - Nocturnal Opera"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Moi Dix Mois
+            </h3>
+            <h4 className=" font-sans font-bold">Nocturnal Opera</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 99,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/moi-dix-mois-nocturnal-opera-c8lop"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/lareine/blue-romance/t-shirt-front.webp"
+                alt="Lareine - Blue Romance"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Lareine
+            </h3>
+            <h4 className=" font-sans font-bold">Blue Romance</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 99,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/lareine-blue-romance-4asys"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/moi-dix-mois/nocturnal-opera/babylook-front.webp"
+                alt="Moi dix Mois - Nocturnal Opera"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Moi Dix Mois
+            </h3>
+            <h4 className=" font-sans font-bold">Nocturnal Opera</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 99,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/moi-dix-mois-nocturnal-opera-baby-look-w8yc3"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+          <li>
+            <figure>
+              <img
+                src="https://images.morterubra.com.br/lareine/blue-romance/babylook-front.webp"
+                alt="Lareine - Blue Romance"
+              />
+            </figure>
+            <h3 className=" font-sans font-bold text-3xl text-red-600">
+              Lareine
+            </h3>
+            <h4 className=" font-sans font-bold">Blue Romance</h4>
+
+            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
+              desconto de lançamento
+            </span>
+
+            <p>
+              <del className="block text-xl">de R$ 99,90</del>
+              por apenas
+              <b className="block text-2xl">R$ 89,90</b>
+              <small>em até 3x sem juros</small>
+            </p>
+            <p>
+              <a
+                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
+              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
+                href="https://loja.morterubra.com.br/lareine-blue-romance-baby-look-vs06v"
+              >
+                IR PARA A LOJA
+              </a>
+            </p>
+          </li>
+
+          <li>
+            <figure>
+              <img
                 src="https://images.morterubra.com.br/magic-the-gathering/expert/bone-prime.webp"
                 alt="Magic The Gathering - Expert"
               />
@@ -448,122 +577,6 @@ export default function Products() {
                 className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
               hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
                 href="https://loja.morterubra.com.br/limbonic-art-moon-in-the-scorpio-7uz91"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-
-          <li>
-            <figure>
-              <img
-                src="https://images.morterubra.com.br/manilla-road/mystification/t-shirt-black.webp"
-                alt="Manilla Road - Mystification"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Manilla Road
-            </h3>
-            <h4 className=" font-sans font-bold">Mystification</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 99,90</del>
-              por apenas
-              <b className="block text-2xl">R$ 92,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/manilla-road-mystification-imrtt"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li>
-            <figure>
-              <img
-                src="https://images.morterubra.com.br/mercyful-fate/time/t-shirt-black.webp"
-                alt="Mercyful Fate - Time"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Mercyful Fate
-            </h3>
-            <h4 className=" font-sans font-bold">Time</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 99,90</del>
-              por apenas
-              <b className="block text-2xl">R$ 92,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/mercyful-fate-time-bvyom"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li>
-            <figure>
-              <img
-                src="https://images.morterubra.com.br/malice-mizer/sans-logique/t-shirt-black.webp"
-                alt="Malice Mizer - Sans Logique"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Malice Mizer
-            </h3>
-            <h4 className=" font-sans font-bold">Sans Logique</h4>
-
-            <p>
-              <del className="block text-xl">de R$ 99,90</del>
-              por apenas
-              <b className="block text-2xl">R$ 92,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/malice-mizer-sans-logique-ta9qd"
-              >
-                IR PARA A LOJA
-              </a>
-            </p>
-          </li>
-          <li>
-            <figure>
-              <img
-                src="https://images.morterubra.com.br/buck-tick/darker-than-darkness/t-shirt-black.webp"
-                alt="Buck-Tick - darker than darkness -style 93-"
-              />
-            </figure>
-            <h3 className=" font-sans font-bold text-3xl text-red-600">
-              Buck-Tick
-            </h3>
-            <h4 className=" font-sans font-bold">
-              darker than darkness{" "}
-              <span className="text-nowrap">-style 93-</span>
-            </h4>
-
-            <p>
-              <del className="block text-xl">de R$ 99,90</del>
-              por apenas
-              <b className="block text-2xl">R$ 92,90</b>
-              <small>em até 3x sem juros</small>
-            </p>
-            <p>
-              <a
-                className="block my-4 border-2 text-red-600 rounded-full py-3 px-5 border-red-600
-              hover:bg-red-600 hover:text-amber-100 hover:font-bold transition"
-                href="https://loja.morterubra.com.br/buck-tick-darker-than-darkness-style-93-jgfvk"
               >
                 IR PARA A LOJA
               </a>

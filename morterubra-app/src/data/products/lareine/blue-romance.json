@@ -1,0 +1,23 @@
+{
+  "title": "Lareine - Blue Romance",
+  "bandName": "Lareine",
+  "bandSlug": "lareine",
+  "album": "Blue Romance",
+  "albumSlug": "blue-romance",
+  "category": "Black Metal",
+  "categorySlug": "black-metal",
+  "description": "Camiseta inspirada no álbum Blue Romance, do Lareine.",
+  "imageBase": "https://images.morterubra.com.br/lareine/blue-romance",
+  "products": [
+    {
+      "type": "t-shirt-front",
+      "name": "Camiseta Preta",
+      "url": "https://loja.morterubra.com.br/lareine-blue-romance-4asys"
+    },
+    {
+      "type": "babylook-front",
+      "name": "Baby Look",
+      "url": "https://loja.morterubra.com.br/lareine-blue-romance-baby-look-vs06v"
+    }
+  ]
+}

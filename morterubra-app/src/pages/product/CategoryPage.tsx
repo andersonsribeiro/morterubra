@@ -30,13 +30,12 @@ const productFiles = import.meta.globEager(
   "../../data/products/**/*.json",
 ) as Record<string, Product>;
 
-export default function ProductPage() {
-  const { bandSlug, albumSlug } = useParams<{
+export default function CategoryPage() {
+  const { bandSlug } = useParams<{
     bandSlug: string;
-    albumSlug: string;
   }>();
 
-  const productPath = `../../data/products/${bandSlug}/${albumSlug}.json`;
+  const productPath = `../../data/products/${bandSlug}/*.json`;
 
   const product = productFiles[productPath] as Product;
 
@@ -62,7 +61,7 @@ export default function ProductPage() {
       </main>
 
       <section className="mt-12 max-w-5xl mx-auto">
-        <h2 className="text-3xl text-center">Escolha seu produto</h2>
+        <h2 className="text-3xl">Escolha seu produto</h2>
 
         <ul id="products" className="mt-5">
           {product.products.map((item) => {
@@ -80,9 +79,7 @@ export default function ProductPage() {
 
                 <h3 className=" font-sans font-bold">{item.name}</h3>
 
-                {bandSlug === "magic-the-gathering" ||
-                bandSlug === "lareine" ||
-                bandSlug === "moi-dix-mois" ? (
+                {bandSlug === "magic-the-gathering" ? (
                   <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
                     desconto de lançamento
                   </span>
@@ -98,9 +95,7 @@ export default function ProductPage() {
                   <b className="block text-2xl">
                     <span>
                       R${" "}
-                      {(bandSlug === "magic-the-gathering" ||
-                      bandSlug === "lareine" ||
-                      bandSlug === "moi-dix-mois"
+                      {(bandSlug === "magic-the-gathering"
                         ? price.release
                         : price.sale
                       )

@@ -1,8 +1,10 @@
 export type ProductType =
   | "t-shirt-black"
   | "t-shirt-white"
+  | "t-shirt-front"
   | "babylook-black"
   | "babylook-white"
+  | "babylook-front"
   | "oversized-black-front"
   | "oversized-black"
   | "oversized-off-white"
@@ -42,11 +44,23 @@ const productPrices: Record<ProductType, ProductPrice> = {
     sale: 99.9,
     release: 97.9,
   },
+  "t-shirt-front": {
+    name: "Camiseta Preta",
+    original: 99.9,
+    sale: 92.9,
+    release: 89.9,
+  },
   "babylook-white": {
     name: "Camiseta Baby Look Branca",
     original: 109.9,
     sale: 99.9,
     release: 97.9,
+  },
+  "babylook-front": {
+    name: "Camiseta Baby Look",
+    original: 99.9,
+    sale: 92.9,
+    release: 89.9,
   },
   "oversized-black": {
     name: "Camiseta Oversized Preta",

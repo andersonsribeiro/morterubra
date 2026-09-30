@@ -1,0 +1,23 @@
+{
+  "title": "Moi Dix Mois - Nocturnal Opera",
+  "bandName": "Moi Dix Mois",
+  "bandSlug": "moi-dix-mois",
+  "album": "Nocturnal Opera",
+  "albumSlug": "nocturnal-opera",
+  "category": "Visual Kei",
+  "categorySlug": "visual-kei",
+  "description": "Camiseta inspirada no álbum Nocturnal Opera, do Moi Dix Mois.",
+  "imageBase": "https://images.morterubra.com.br/moi-dix-mois/nocturnal-opera",
+  "products": [
+    {
+      "type": "t-shirt-front",
+      "name": "Camiseta",
+      "url": "https://loja.morterubra.com.br/moi-dix-mois-nocturnal-opera-c8lop"
+    },
+    {
+      "type": "babylook-front",
+      "name": "Baby Look",
+      "url": "https://loja.morterubra.com.br/moi-dix-mois-nocturnal-opera-baby-look-w8yc3"
+    }
+  ]
+}
