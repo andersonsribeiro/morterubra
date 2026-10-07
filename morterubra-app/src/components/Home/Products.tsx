@@ -144,14 +144,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Expert</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
-              <del className="block text-xl">de R$ 129,90</del>
+              <del className="block text-xl">de R$ 139,90</del>
               por apenas
-              <b className="block text-2xl">R$ 124,90</b>
+              <b className="block text-2xl">R$ 129,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -176,14 +172,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Expert</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 59,90</del>
               por apenas
-              <b className="block text-2xl">R$ 54,90</b>
+              <b className="block text-2xl">R$ 57,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -208,14 +200,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Expert</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 97,90</b>
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -240,14 +228,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Urza's Saga</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 109,90</del>
               por apenas
-              <b className="block text-2xl">R$ 97,90</b>
+              <b className="block text-2xl">R$ 99,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -272,14 +256,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Expert</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 119,90</del>
               por apenas
-              <b className="block text-2xl">R$ 104,90</b>
+              <b className="block text-2xl">R$ 109,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
@@ -304,14 +284,10 @@ export default function Products() {
             </h3>
             <h4 className=" font-sans font-bold">Urza's Saga</h4>
 
-            <span className="bg-red-600 text-sm font-bold rounded inline-block py-1 px-2 mt-3">
-              desconto de lançamento
-            </span>
-
             <p>
               <del className="block text-xl">de R$ 119,90</del>
               por apenas
-              <b className="block text-2xl">R$ 104,90</b>
+              <b className="block text-2xl">R$ 109,90</b>
               <small>em até 3x sem juros</small>
             </p>
             <p>
